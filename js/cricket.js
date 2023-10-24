@@ -1,1 +1,1169 @@
-function _0x571b(){const _0x176d59=['overRun3','lastRun1','bowler','blink\x203s\x20infinite','then','p1Run3','partnership0','teamLogo_box3','87496skuxiC','href','match','bowlertworuns','p2Ball2','bp2w1','need','batsmantwosixes','IN\x20SLIDE\x20:\x201\x20\x20COMING\x20UP','p2Run3','teamTwo_ImageB2','ballsfaced','src','liveMatchInfo1','display','bp11','overRun1','560rQjOFF','p1strikeRate2','../html/error.html','bp2m2','7048nHBvjc','bp2r0','catch','toUpperCase','10qeModl','errorMessage','p22','OUT\x20OF\x20RANGE','commentary-text1','overMatchInfo3','teamLogo_box2','p13s3','bp2w0','p26s0','commentary-text0','p23','crr0','bp1o2','UpcomingTitle1','bp2m1','style','2433zkqgmv','6171741VMrTtH','IN\x20SLIDE\x20:\x203\x20\x20LIVE','team-one3','31871QzvPcN','bp2o2','bp2o1','https://harsha-cricket-api01.vercel.app/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/','batsmanrun','p2strikeRate1','split','LIVE','Punjab\x20Kings','UpcomingTitle3','team-two3','bp2m3','.slider-control--left','sixes','slice','bowlertwowickets','ERROR\x20404','active','bp22','batsmantwosr','p1Ball3','rain','Sunrisers\x20Hyderabad','join','animation','bp1w1','bowlerwickets','OMTitle31','bp13','bp10','UpcomingUpdate1','starts\x20at','commentary','recentballs','../img/ipl_logos/','liveMatchInfo2','5TKnAwY','json','runrate','p26s1','Mumbai\x20Indians','.slider-wrapper','bp2o3','No\x20Wickets','reload','update1','bp2r3','p14s1','teamone','p16s1','location','IN\x20SLIDE\x20:\x201\x20\x20LIVE','title2','p14s2','RAIN','overRun2','crr2','bp1o1','log','matchStatus1','\x20vs\x20','title3','IN\x20SLIDE\x20:\x200\x20\x20COMPLETED','bowlerover','p2Run1','innerHTML','block','addEventListener','update3','upcomigMatchInfo0','title0','value','bp21','Gujarat\x20Titans','IN\x20SLIDE\x20:\x202\x20\x20LIVE','300YoaqqI','Royal\x20Challengers\x20Bangalore','innerText','update2','bp2r2','team-two2','currentScore3','bowlermaiden','bowletworover','p1Ball1','upcomigMatchInfo1','Delhi\x20Capitals','p11','replace','p2Ball3','...','p2Run2','partnership2','teamTwo_ImageB3','battingTeam1','OMUpdate33','lastRun2','fours','IN\x20SLIDE\x20:\x200\x20\x20LIVE','UpcomingUpdate3','p23s3','lastWicket2','Lucknow\x20Super\x20Giants','ERROR','bp1r0','bowlertwomaiden','teamtwo','bp20','807972yxaPQn','COMING\x20UP','overMatchInfo1','COMPLETED','batsmantwofours','bp1o0','batsmantwoballsfaced','lastWicket3','IN\x20SLIDE\x20:\x202\x20COMPLETED','p16s0','.jpg','UpcomingUpdate0','OMTitle30','commentary-text3','crr1','length','p1Run1','bp1w0','teamLogo_box1','lastwicket','bp2w2','title1','p1strikeRate0','teamTwo_ImageB0','matchStatus0','click','IN\x20SLIDE\x20:\x202\x20\x20COMING\x20UP','ERROR\x20:\x20Server\x20Not\x20Found','upcoming','3053694viwfrh','team-two1','p13','p14s0','red','team-one1','TOSS','bp1o3','batsmantworun','setInterval','Error\x20in\x20SERVER','substring','upcomigMatchInfo2','matchStatus2','bp1m0','OMTitle32','p1Ball0','p24s1','batsmantwo','title','partnership1','bowlerruns','bp2w3','p1Run2','p2Run0','Innings\x20Break','bp1r2','opt','.slider-control--right','p20','includes','p24s2','update','liveMatchInfo3','battingTeam2','overMatchInfo2','currentScore2','OMUpdate32','data','BREAK','getElementById','Data\x20Not\x20Found','bp1w3','p24s0','716276LFHLMP','bowlertwo','won','https://url-scraper-harshax07.onrender.com','livescore','batsman','partnership','p2Ball0','UpcomingUpdate2','p26s3','OMUpdate30','Error\x20From\x20server','team-one0','liveMatchInfo0','partnership3','update0','lastRun3','p1Ball2','classList','teamOne_ImageB2','bp1r3','querySelector','current'];_0x571b=function(){return _0x176d59;};return _0x571b();}const _0x2de5f5=_0x107d;(function(_0x24565f,_0x55b814){const _0x18ff0a=_0x107d,_0x3ac0cf=_0x24565f();while(!![]){try{const _0x3442df=parseInt(_0x18ff0a(0x220))/0x1+-parseInt(_0x18ff0a(0x23f))/0x2+-parseInt(_0x18ff0a(0x269))/0x3*(-parseInt(_0x18ff0a(0x254))/0x4)+parseInt(_0x18ff0a(0x18f))/0x5*(-parseInt(_0x18ff0a(0x1f4))/0x6)+-parseInt(_0x18ff0a(0x26d))/0x7*(-parseInt(_0x18ff0a(0x250))/0x8)+-parseInt(_0x18ff0a(0x26a))/0x9*(-parseInt(_0x18ff0a(0x258))/0xa)+parseInt(_0x18ff0a(0x1d7))/0xb*(-parseInt(_0x18ff0a(0x1b6))/0xc);if(_0x3442df===_0x55b814)break;else _0x3ac0cf['push'](_0x3ac0cf['shift']());}catch(_0x25aa8c){_0x3ac0cf['push'](_0x3ac0cf['shift']());}}}(_0x571b,0xb9b90));const sliderWrapper=document[_0x2de5f5(0x235)](_0x2de5f5(0x194)),sliderSlides=document['querySelectorAll']('.slider-slide'),sliderControlLeft=document[_0x2de5f5(0x235)](_0x2de5f5(0x279)),sliderControlRight=document['querySelector'](_0x2de5f5(0x210)),errorMessage=document[_0x2de5f5(0x21c)](_0x2de5f5(0x259));let slideIndex=0x1,value=0x1,currentValue,m0ID,m1ID,m2ID,m3ID,Value,baseAPI=_0x2de5f5(0x270),server=_0x2de5f5(0x223);function slideTo(_0x1bd48a){const _0x26eee5=_0x2de5f5;sliderSlides[slideIndex]['classList']['remove'](_0x26eee5(0x17c)),sliderSlides[_0x1bd48a][_0x26eee5(0x232)]['add'](_0x26eee5(0x17c)),sliderWrapper[_0x26eee5(0x268)]['transform']='translateX(-'+_0x1bd48a*0x19+'%)',slideIndex=_0x1bd48a;}function slideNext(){const _0x54d6f7=_0x2de5f5;if(slideIndex===sliderSlides[_0x54d6f7(0x1e6)]-0x1){}else return slideTo(slideIndex+0x1),value++,value;}function slidePrev(){if(slideIndex===0x0){}else return slideTo(slideIndex-0x1),value--,value;}sliderControlLeft[_0x2de5f5(0x1ae)](_0x2de5f5(0x1f0),function(){var _0x5225cf=slidePrev();main(_0x5225cf);}),sliderControlRight['addEventListener'](_0x2de5f5(0x1f0),function(){let _0x243d2b=slideNext();main(_0x243d2b);}),getValue=(_0x4d256a,_0x2a973f)=>{const _0x496481=_0x2de5f5;if(_0x4d256a[_0x496481(0x224)][_0x496481(0x214)]['includes'](_0x496481(0x1f3))||_0x4d256a[_0x496481(0x224)][_0x496481(0x214)]['includes']('Starts\x20at')||_0x4d256a[_0x496481(0x224)]['update']['includes'](_0x496481(0x18a))||_0x4d256a[_0x496481(0x224)]['update'][_0x496481(0x212)]('Preview'))Value=0x0;else{if(_0x4d256a[_0x496481(0x224)][_0x496481(0x214)]['includes'](_0x496481(0x245))||_0x4d256a[_0x496481(0x224)][_0x496481(0x214)][_0x496481(0x212)](_0x496481(0x20f))||_0x4d256a['livescore'][_0x496481(0x214)][_0x496481(0x212)](_0x496481(0x20d)))Value=0x1;else{if(_0x4d256a[_0x496481(0x224)][_0x496481(0x214)][_0x496481(0x212)](_0x496481(0x222)))Value=0x2;else{if(_0x4d256a[_0x496481(0x224)][_0x496481(0x214)]['includes'](_0x496481(0x180)))Value=0x3;else Value=0x63;}}}return Value;};async function getMatchID(_0x4340a1){const _0x55f4d8=_0x2de5f5;try{const _0x16c611=await fetch(_0x4340a1),_0x299a91=await _0x16c611[_0x55f4d8(0x190)]();return _0x299a91;}catch(_0x254d37){errorMessage['style'][_0x55f4d8(0x24d)]='block',errorMessage[_0x55f4d8(0x1b8)]=_0x55f4d8(0x1f2),errorMessage[_0x55f4d8(0x268)]['color']=_0x55f4d8(0x1f8);}}async function getMatchInfo(_0x2de2db,_0x1706f7,_0x2a5df6){const _0x43495c=_0x2de5f5,_0x40768c=_0x1706f7+_0x2de2db;console[_0x43495c(0x1a5)](_0x40768c);const _0x415959=await fetch(_0x40768c),_0xd0479b=await _0x415959[_0x43495c(0x190)]();let _0x5f5a1a=getValue(_0xd0479b,_0x2a5df6);return{'data':_0xd0479b,'value':_0x5f5a1a};};function _0x107d(_0x3ebf88,_0x168a0e){const _0x571b39=_0x571b();return _0x107d=function(_0x107d47,_0x2f01f0){_0x107d47=_0x107d47-0x17c;let _0x3dfeeb=_0x571b39[_0x107d47];return _0x3dfeeb;},_0x107d(_0x3ebf88,_0x168a0e);}function updateDOM(_0x173e31,_0x558a59,_0x5ecf5b){const _0x5c80b5=_0x2de5f5;if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)]==_0x5c80b5(0x21d))console[_0x5c80b5(0x1a5)](_0x5c80b5(0x1d2)),window[_0x5c80b5(0x19d)][_0x5c80b5(0x240)]=_0x5c80b5(0x252);else{let _0x113e70,_0x2aaa64,_0xecdf51,_0x12bb4a;var _0x10d602=['Chennai\x20Super\x20Kings',_0x5c80b5(0x1c1),_0x5c80b5(0x1b4),_0x5c80b5(0x193),'Kolkata\x20Knight\x20Riders',_0x5c80b5(0x181),_0x5c80b5(0x275),_0x5c80b5(0x1d1),_0x5c80b5(0x1b7),'Rajasthan\x20Royals'];if(_0x10d602[_0x5c80b5(0x212)](_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)])){_0x2aaa64=!![];const _0x18d0af=_0x173e31[_0x5c80b5(0x224)]['title'],_0x5c475c=_0x18d0af[_0x5c80b5(0x273)](',')[0x0],_0x39ce0e=_0x5c475c[_0x5c80b5(0x273)](_0x5c80b5(0x1a7)),_0x36a27c=_0x39ce0e[0x0],_0x2d1727=_0x39ce0e[0x1];_0xecdf51=_0x36a27c[_0x5c80b5(0x241)](/\b\w/g)[_0x5c80b5(0x182)]('')+_0x5c80b5(0x1e1),_0x12bb4a=_0x2d1727[_0x5c80b5(0x241)](/\b\w/g)['join']('')+_0x5c80b5(0x1e1);}if(_0x558a59==0x0){const _0x2df4b8=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ef)),_0x3957fc=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1b0)),_0x211077=document[_0x5c80b5(0x21c)]('UpcomingTitle0'),_0x2f1149=document['getElementById'](_0x5c80b5(0x1e2)),_0x5efddf=document['getElementById'](_0x5c80b5(0x22d)),_0x434e3c=document['getElementById'](_0x5c80b5(0x1b1)),_0x1def28=document[_0x5c80b5(0x21c)](_0x5c80b5(0x22f)),_0x408131=document[_0x5c80b5(0x21c)]('battingTeam0'),_0x1cabfe=document[_0x5c80b5(0x21c)]('currentScore0'),_0x23a5ed=document['getElementById']('lastRun0'),_0x157357=document[_0x5c80b5(0x21c)]('overRun0'),_0x212319=document[_0x5c80b5(0x21c)](_0x5c80b5(0x264)),_0x923288=document[_0x5c80b5(0x21c)]('p10'),_0x32224f=document[_0x5c80b5(0x21c)]('p1Run0'),_0x241bda=document[_0x5c80b5(0x21c)](_0x5c80b5(0x204)),_0x10f619=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1f7)),_0xd8937=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1e0)),_0x5ba75e=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ed)),_0x109d89=document[_0x5c80b5(0x21c)](_0x5c80b5(0x211)),_0xab81f7=document[_0x5c80b5(0x21c)](_0x5c80b5(0x20c)),_0x26bafd=document[_0x5c80b5(0x21c)](_0x5c80b5(0x227)),_0x6516e3=document[_0x5c80b5(0x21c)](_0x5c80b5(0x21f)),_0x524aa8=document[_0x5c80b5(0x21c)](_0x5c80b5(0x261)),_0x332d5d=document['getElementById']('p2strikeRate0'),_0x2133c3=document['getElementById'](_0x5c80b5(0x188)),_0x25514e=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1dc)),_0x49c4e7=document['getElementById'](_0x5c80b5(0x1d3)),_0x138e63=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1e8)),_0x4b4906=document[_0x5c80b5(0x21c)](_0x5c80b5(0x202)),_0x32973c=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1d6)),_0x89c72e=document[_0x5c80b5(0x21c)]('bp2o0'),_0xb73cc6=document['getElementById'](_0x5c80b5(0x255)),_0x203212=document[_0x5c80b5(0x21c)](_0x5c80b5(0x260)),_0x270256=document[_0x5c80b5(0x21c)]('bp2m0'),_0x3c0295=document[_0x5c80b5(0x21c)](_0x5c80b5(0x23d)),_0xd1bdae=document['getElementById']('lastWicket0'),_0x4520a9=document[_0x5c80b5(0x21c)](_0x5c80b5(0x262)),_0x5e957a=document[_0x5c80b5(0x21c)]('overMatchInfo0'),_0x47c36d=document['getElementById'](_0x5c80b5(0x1e3)),_0x50a001=document[_0x5c80b5(0x21c)](_0x5c80b5(0x22c)),_0x70eaf6=document[_0x5c80b5(0x21c)]('team-two0'),_0x4df5ba=document[_0x5c80b5(0x21c)](_0x5c80b5(0x22a)),_0x4dd079=document[_0x5c80b5(0x21c)]('teamLogo_box0'),_0x48b61c=document['getElementById']('teamOne_ImageB0'),_0x4a6217=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ee));_0x2aaa64&&(_0x4dd079[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x48b61c[_0x5c80b5(0x24b)]=_0x5c80b5(0x18d)+_0xecdf51,_0x4a6217[_0x5c80b5(0x24b)]=_0x5c80b5(0x18d)+_0x12bb4a);if(_0x5ecf5b==0x0||_0x5ecf5b==0x3){console['log']('IN\x20SLIDE\x20:\x200\x20\x20COMING\x20UP'),_0x3957fc[_0x5c80b5(0x268)]['display']=_0x5c80b5(0x1ad);if(_0x5ecf5b==0x3)_0x2df4b8[_0x5c80b5(0x1b8)]='RAIN';else _0x2df4b8[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1d8);_0x211077[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['title'],_0x2f1149[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['update']['toUpperCase']();}else{if(_0x5ecf5b==0x1){console[_0x5c80b5(0x1a5)](_0x5c80b5(0x1cd));if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)]==_0x5c80b5(0x21d)&&_0x173e31['livescore']['teamone']=='Data\x20Not\x20Found')_0x2df4b8[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1fa),_0x3957fc[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x211077[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x207)],_0x2f1149[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['update'][_0x5c80b5(0x257)]();else{_0x5efddf['style'][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x434e3c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)],_0x1def28['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)]['toUpperCase'](),_0x408131[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['current'][_0x5c80b5(0x27b)](0x0,0x3),_0x1cabfe[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)][_0x5c80b5(0x1ff)](0x5);_0x173e31['livescore'][_0x5c80b5(0x18c)]=='Data\x20Not\x20Found'?(_0x23a5ed[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)][_0x173e31['livescore'][_0x5c80b5(0x1ea)]['length']-0x1],_0x157357[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1ea)],_0xd1bdae[_0x5c80b5(0x1b8)]='No\x20Wickets'):(String(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x5c80b5(0x1e6)]-0x1])=='d'?_0x23a5ed[_0x5c80b5(0x1b8)]='Wd':_0x23a5ed[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['recentballs'][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x5c80b5(0x1e6)]-0x1],_0x157357[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x5c80b5(0x1ff)](0x5),_0xd1bdae[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1ea)]);_0x212319[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x191)][_0x5c80b5(0x1ff)](0x5);_0x113e70==0x14||_0x113e70==0x32?(_0x2df4b8[_0x5c80b5(0x1b8)]='BREAK',_0x2df4b8[_0x5c80b5(0x268)][_0x5c80b5(0x183)]='blink\x203s\x20infinite'):(_0x2df4b8[_0x5c80b5(0x1b8)]=_0x5c80b5(0x274),_0x2df4b8[_0x5c80b5(0x268)][_0x5c80b5(0x183)]=_0x5c80b5(0x23a));if(_0x173e31['livescore'][_0x5c80b5(0x225)]==_0x5c80b5(0x21d))_0x923288[_0x5c80b5(0x1b8)]='-';else _0x923288[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsman'];if(_0x173e31['livescore'][_0x5c80b5(0x271)]==_0x5c80b5(0x21d))_0x32224f['innerText']='-';else _0x32224f[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)];if(_0x173e31[_0x5c80b5(0x224)]['ballsfaced']==_0x5c80b5(0x21d))_0x241bda['innerText']='-';else _0x241bda[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x24a)]['replace'](/[()]/g,'');if(_0x173e31['livescore'][_0x5c80b5(0x1cc)]=='Data\x20Not\x20Found')_0x10f619['innerText']='-';else _0x10f619[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1cc)];if(_0x173e31['livescore'][_0x5c80b5(0x27a)]==_0x5c80b5(0x21d))_0xd8937[_0x5c80b5(0x1b8)]='-';else _0xd8937[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x27a)];if(_0x173e31[_0x5c80b5(0x224)]['sr']=='Data\x20Not\x20Found')_0x5ba75e[_0x5c80b5(0x1b8)]='-';else _0x5ba75e[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['sr'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)]==_0x5c80b5(0x21d))_0x109d89[_0x5c80b5(0x1b8)]='-';else _0x109d89[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantwo'];if(_0x173e31['livescore']['batsmantworun']==_0x5c80b5(0x21d))_0xab81f7[_0x5c80b5(0x1b8)]='-';else _0xab81f7[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantworun'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)]=='Data\x20Not\x20Found')_0x26bafd[_0x5c80b5(0x1b8)]='-';else _0x26bafd[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)]['batsmantwofours']==_0x5c80b5(0x21d))_0x6516e3[_0x5c80b5(0x1b8)]='-';else _0x6516e3[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantwofours'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x246)]==_0x5c80b5(0x21d))_0x524aa8[_0x5c80b5(0x1b8)]='-';else _0x524aa8['innerText']=_0x173e31['livescore'][_0x5c80b5(0x246)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x17e)]=='Data\x20Not\x20Found')_0x332d5d[_0x5c80b5(0x1b8)]='-';else _0x332d5d[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x17e)];_0x173e31['livescore']['bowler']=='Data\x20Not\x20Found'?(_0x2133c3[_0x5c80b5(0x1b8)]='-',_0x25514e[_0x5c80b5(0x1b8)]='-',_0x49c4e7[_0x5c80b5(0x1b8)]='-',_0x138e63['innerText']='-',_0x4b4906['innerText']='-'):(_0x2133c3[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x239)],_0x25514e[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1aa)],_0x49c4e7['innerText']=_0x173e31['livescore'][_0x5c80b5(0x209)],_0x138e63['innerText']=_0x173e31['livescore'][_0x5c80b5(0x185)],_0x4b4906[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1bd)]);_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)]==_0x5c80b5(0x21d)?(_0x32973c[_0x5c80b5(0x1b8)]='-',_0x89c72e['innerText']='-',_0xb73cc6[_0x5c80b5(0x1b8)]='-',_0x203212['innerText']='-',_0x270256[_0x5c80b5(0x1b8)]='-'):(_0x32973c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)],_0x89c72e['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1be)],_0xb73cc6['innerText']=_0x173e31['livescore'][_0x5c80b5(0x242)],_0x203212[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27c)],_0x270256['innerText']=_0x173e31[_0x5c80b5(0x224)]['bowlertwomaiden']);if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x23d)]==_0x5c80b5(0x21d))partnership[_0x5c80b5(0x1b8)]='\x20\x20';else _0x3c0295[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x226)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18b)]=='Data\x20Not\x20Found')_0x4520a9[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1c5);else _0x4520a9[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['commentary'][0x0];}}else{if(_0x5ecf5b==0x2)console['log'](_0x5c80b5(0x1a9)),_0x5e957a['style']['display']=_0x5c80b5(0x1ad),_0x2df4b8[_0x5c80b5(0x1ac)]=_0x5c80b5(0x1da),_0x47c36d[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['title'],_0x50a001[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['teamone'],_0x70eaf6[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1d5)],_0x4df5ba[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();else{console['log']('ERROR\x20404');if(_0x5ecf5b==0x63)console[_0x5c80b5(0x1a5)](_0x5c80b5(0x22b));window[_0x5c80b5(0x19d)]['href']='../html/error.html';}}}}else{if(_0x558a59==0x1){const _0xbb008f=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1a6)),_0x39d85c=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c0)),_0x59b4f7=document[_0x5c80b5(0x21c)](_0x5c80b5(0x266)),_0x2cf861=document[_0x5c80b5(0x21c)](_0x5c80b5(0x189)),_0x328397=document['getElementById'](_0x5c80b5(0x24c)),_0x539dc2=document['getElementById'](_0x5c80b5(0x1ec)),_0x1acbf6=document[_0x5c80b5(0x21c)](_0x5c80b5(0x198)),_0x2e7a50=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c9)),_0x3b3216=document['getElementById']('currentScore1'),_0x13872f=document[_0x5c80b5(0x21c)](_0x5c80b5(0x238)),_0x5b4cb6=document[_0x5c80b5(0x21c)](_0x5c80b5(0x24f)),_0x125bc5=document['getElementById'](_0x5c80b5(0x1e5)),_0x332a6e=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c2)),_0x5a211a=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1e7)),_0x1e914b=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1bf)),_0x179bf4=document[_0x5c80b5(0x21c)](_0x5c80b5(0x19a)),_0x45d061=document[_0x5c80b5(0x21c)](_0x5c80b5(0x19c)),_0x5c3b31=document['getElementById']('p1strikeRate1'),_0x44726e=document[_0x5c80b5(0x21c)]('p21'),_0x2ed0a4=document['getElementById'](_0x5c80b5(0x1ab)),_0x3910fb=document[_0x5c80b5(0x21c)]('p2Ball1'),_0x5bccbe=document[_0x5c80b5(0x21c)](_0x5c80b5(0x205)),_0x19bfce=document[_0x5c80b5(0x21c)](_0x5c80b5(0x192)),_0x5f5624=document[_0x5c80b5(0x21c)](_0x5c80b5(0x272)),_0x2639bc=document['getElementById'](_0x5c80b5(0x24e)),_0x18dc4e=document['getElementById'](_0x5c80b5(0x1a4)),_0x1ea87f=document[_0x5c80b5(0x21c)]('bp1r1'),_0x3f9ad8=document[_0x5c80b5(0x21c)](_0x5c80b5(0x184)),_0x534c6c=document[_0x5c80b5(0x21c)]('bp1m1'),_0x1d3f02=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1b3)),_0x30cb69=document[_0x5c80b5(0x21c)](_0x5c80b5(0x26f)),_0xb54bef=document[_0x5c80b5(0x21c)]('bp2r1'),_0x350dd6=document[_0x5c80b5(0x21c)](_0x5c80b5(0x244)),_0x2bfeef=document[_0x5c80b5(0x21c)](_0x5c80b5(0x267)),_0x4b4b63=document[_0x5c80b5(0x21c)](_0x5c80b5(0x208)),_0x35ee46=document['getElementById']('lastWicket1'),_0x334bd5=document[_0x5c80b5(0x21c)](_0x5c80b5(0x25c)),_0xee05e1=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1d9)),_0x5e8680=document[_0x5c80b5(0x21c)](_0x5c80b5(0x186)),_0x4511da=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1f9)),_0x4b468e=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1f5)),_0x39ae70=document[_0x5c80b5(0x21c)]('OMUpdate31'),_0x15a336=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1e9)),_0x9ac88c=document[_0x5c80b5(0x21c)]('teamOne_ImageB1'),_0x239fe3=document[_0x5c80b5(0x21c)]('teamTwo_ImageB1');_0x2aaa64&&(_0x15a336[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x9ac88c['src']=_0x5c80b5(0x18d)+_0xecdf51,_0x239fe3[_0x5c80b5(0x24b)]=_0x5c80b5(0x18d)+_0x12bb4a);if(_0x5ecf5b==0x0||_0x5ecf5b==0x3){console[_0x5c80b5(0x1a5)](_0x5c80b5(0x247)),_0x39d85c[_0x5c80b5(0x268)]['display']=_0x5c80b5(0x1ad);if(_0x5ecf5b==0x3)_0xbb008f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1a1);else _0xbb008f[_0x5c80b5(0x1b8)]='COMING\x20UP';_0x59b4f7['innerText']=_0x173e31[_0x5c80b5(0x224)]['title'],_0x2cf861[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();}else{if(_0x5ecf5b==0x1){console[_0x5c80b5(0x1a5)](_0x5c80b5(0x19e));if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)]==_0x5c80b5(0x21d)&&_0x173e31['livescore'][_0x5c80b5(0x19b)]==_0x5c80b5(0x21d))_0xbb008f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1fa),_0x39d85c[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x59b4f7['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)],_0x2cf861['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)]['toUpperCase']();else{_0x328397[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x539dc2[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x207)],_0x1acbf6[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['update']['toUpperCase'](),_0x2e7a50[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)][_0x5c80b5(0x27b)](0x0,0x3),_0x3b3216['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)][_0x5c80b5(0x1ff)](0x5);_0x173e31['livescore']['recentballs']==_0x5c80b5(0x21d)?(_0x13872f[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)][_0x173e31[_0x5c80b5(0x224)]['lastwicket']['length']-0x1],_0x5b4cb6['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)],_0x35ee46[_0x5c80b5(0x1b8)]=_0x5c80b5(0x196)):(String(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)]['length']-0x1])=='d'?_0x13872f['innerText']='Wd':_0x13872f['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x173e31['livescore']['recentballs'][_0x5c80b5(0x1e6)]-0x1],_0x5b4cb6['innerText']=_0x173e31[_0x5c80b5(0x224)]['recentballs'][_0x5c80b5(0x1ff)](0x5),_0x35ee46[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1ea)]);_0x125bc5[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x191)][_0x5c80b5(0x1ff)](0x5);_0x113e70==0x14||_0x113e70==0x32?(_0xbb008f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x21b),_0xbb008f[_0x5c80b5(0x268)][_0x5c80b5(0x183)]=_0x5c80b5(0x23a)):(_0xbb008f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x274),_0xbb008f[_0x5c80b5(0x268)][_0x5c80b5(0x183)]=_0x5c80b5(0x23a));if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)]=='Data\x20Not\x20Found')_0x332a6e[_0x5c80b5(0x1b8)]='-';else _0x332a6e[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)]==_0x5c80b5(0x21d))_0x5a211a[_0x5c80b5(0x1b8)]='-';else _0x5a211a[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)];if(_0x173e31[_0x5c80b5(0x224)]['ballsfaced']=='Data\x20Not\x20Found')_0x1e914b[_0x5c80b5(0x1b8)]='-';else _0x1e914b[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x24a)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1cc)]==_0x5c80b5(0x21d))_0x179bf4[_0x5c80b5(0x1b8)]='-';else _0x179bf4['innerText']=_0x173e31['livescore'][_0x5c80b5(0x1cc)];if(_0x173e31[_0x5c80b5(0x224)]['sixes']=='Data\x20Not\x20Found')_0x45d061[_0x5c80b5(0x1b8)]='-';else _0x45d061['innerText']=_0x173e31[_0x5c80b5(0x224)]['sixes'];if(_0x173e31['livescore']['sr']=='Data\x20Not\x20Found')_0x5c3b31[_0x5c80b5(0x1b8)]='-';else _0x5c3b31['innerText']=_0x173e31[_0x5c80b5(0x224)]['sr'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)]=='Data\x20Not\x20Found')_0x44726e[_0x5c80b5(0x1b8)]='-';else _0x44726e['innerText']=_0x173e31[_0x5c80b5(0x224)]['batsmantwo'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1fc)]==_0x5c80b5(0x21d))_0x2ed0a4[_0x5c80b5(0x1b8)]='-';else _0x2ed0a4[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantworun'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)]==_0x5c80b5(0x21d))_0x3910fb[_0x5c80b5(0x1b8)]='-';else _0x3910fb['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31['livescore']['batsmantwofours']==_0x5c80b5(0x21d))_0x5bccbe[_0x5c80b5(0x1b8)]='-';else _0x5bccbe[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1db)];if(_0x173e31[_0x5c80b5(0x224)]['batsmantwosixes']=='Data\x20Not\x20Found')_0x19bfce['innerText']='-';else _0x19bfce[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x246)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x17e)]=='Data\x20Not\x20Found')_0x5f5624[_0x5c80b5(0x1b8)]='-';else _0x5f5624[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x17e)];_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x239)]==_0x5c80b5(0x21d)?(_0x2639bc[_0x5c80b5(0x1b8)]='-',_0x18dc4e[_0x5c80b5(0x1b8)]='-',_0x1ea87f[_0x5c80b5(0x1b8)]='-',_0x3f9ad8[_0x5c80b5(0x1b8)]='-',_0x534c6c[_0x5c80b5(0x1b8)]='-'):(_0x2639bc[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x239)],_0x18dc4e[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1aa)],_0x1ea87f[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowlerruns'],_0x3f9ad8[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x185)],_0x534c6c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1bd)]);_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)]=='Data\x20Not\x20Found'?(_0x1d3f02[_0x5c80b5(0x1b8)]='-',_0x30cb69[_0x5c80b5(0x1b8)]='-',_0xb54bef[_0x5c80b5(0x1b8)]='-',_0x350dd6[_0x5c80b5(0x1b8)]='-',_0x2bfeef['innerText']='-'):(_0x1d3f02[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)],_0x30cb69[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowletworover'],_0xb54bef[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowlertworuns'],_0x350dd6[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x27c)],_0x2bfeef[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowlertwomaiden']);if(_0x173e31['livescore'][_0x5c80b5(0x226)]==_0x5c80b5(0x21d))_0x4b4b63[_0x5c80b5(0x1b8)]='\x20\x20';else _0x4b4b63['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x226)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18b)]==_0x5c80b5(0x21d))_0x334bd5[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1c5);else _0x334bd5[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x18b)][0x0];}}else{if(_0x5ecf5b==0x2)console['log']('IN\x20SLIDE\x20:\x201\x20\x20COMPLETED'),_0xee05e1[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]='block',_0xbb008f[_0x5c80b5(0x1ac)]='COMPLETED',_0x5e8680['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)],_0x4511da[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x19b)],_0x4b468e[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['teamtwo'],_0x39ae70[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['update'][_0x5c80b5(0x257)]();else{console['log']('ERROR\x20404');if(_0x5ecf5b==0x63)console[_0x5c80b5(0x1a5)](_0x5c80b5(0x22b));window['location'][_0x5c80b5(0x240)]=_0x5c80b5(0x252);}}}}else{if(_0x558a59==0x2){const _0x1dfd2f=document['getElementById'](_0x5c80b5(0x201)),_0x28c217=document[_0x5c80b5(0x21c)](_0x5c80b5(0x200)),_0xc77860=document[_0x5c80b5(0x21c)]('UpcomingTitle2'),_0x3ec1ab=document[_0x5c80b5(0x21c)](_0x5c80b5(0x228)),_0x7abb2f=document[_0x5c80b5(0x21c)](_0x5c80b5(0x18e)),_0x4956af=document[_0x5c80b5(0x21c)](_0x5c80b5(0x19f)),_0x23df90=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1b9)),_0x43a610=document[_0x5c80b5(0x21c)](_0x5c80b5(0x216)),_0x4d6a18=document[_0x5c80b5(0x21c)](_0x5c80b5(0x218)),_0x2b3dcc=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1cb)),_0x819f48=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1a2)),_0x231c44=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1a3)),_0x256985=document[_0x5c80b5(0x21c)]('p12'),_0x3f1c3b=document['getElementById'](_0x5c80b5(0x20b)),_0x3cf0aa=document[_0x5c80b5(0x21c)](_0x5c80b5(0x231)),_0x3861b9=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1a0)),_0x32b99c=document[_0x5c80b5(0x21c)]('p16s2'),_0x5bdb05=document[_0x5c80b5(0x21c)](_0x5c80b5(0x251)),_0x1bc13d=document[_0x5c80b5(0x21c)](_0x5c80b5(0x25a)),_0x4c4cba=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c6)),_0x593a49=document['getElementById'](_0x5c80b5(0x243)),_0xacef3b=document[_0x5c80b5(0x21c)](_0x5c80b5(0x213)),_0x320611=document[_0x5c80b5(0x21c)]('p26s2'),_0x28f49a=document[_0x5c80b5(0x21c)]('p2strikeRate2'),_0x4e1491=document[_0x5c80b5(0x21c)]('bp12'),_0xee1baf=document[_0x5c80b5(0x21c)](_0x5c80b5(0x265)),_0x8ad211=document[_0x5c80b5(0x21c)](_0x5c80b5(0x20e)),_0x10eb36=document['getElementById']('bp1w2'),_0x3a728c=document[_0x5c80b5(0x21c)]('bp1m2'),_0x1632ba=document[_0x5c80b5(0x21c)](_0x5c80b5(0x17d)),_0x4d2687=document[_0x5c80b5(0x21c)](_0x5c80b5(0x26e)),_0x524f48=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ba)),_0x47ac9b=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1eb)),_0x58e8e7=document[_0x5c80b5(0x21c)](_0x5c80b5(0x253)),_0x3e641a=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c7)),_0x2de153=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1d0)),_0x14ff3d=document[_0x5c80b5(0x21c)]('commentary-text2'),_0x38a82c=document['getElementById'](_0x5c80b5(0x217)),_0x253ead=document['getElementById'](_0x5c80b5(0x203)),_0x29eeb7=document['getElementById']('team-one2'),_0x5c1f49=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1bb)),_0x31cd95=document[_0x5c80b5(0x21c)](_0x5c80b5(0x219)),_0x291351=document[_0x5c80b5(0x21c)](_0x5c80b5(0x25e)),_0x53172f=document[_0x5c80b5(0x21c)](_0x5c80b5(0x233)),_0x454185=document[_0x5c80b5(0x21c)](_0x5c80b5(0x249));_0x2aaa64&&(_0x291351['style'][_0x5c80b5(0x24d)]='block',_0x53172f[_0x5c80b5(0x24b)]='../img/ipl_logos/'+_0xecdf51,_0x454185[_0x5c80b5(0x24b)]=_0x5c80b5(0x18d)+_0x12bb4a);if(_0x5ecf5b==0x0||_0x5ecf5b==0x3){console['log'](_0x5c80b5(0x1f1)),_0x28c217[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad);if(_0x5ecf5b==0x3)_0x1dfd2f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1a1);else _0x1dfd2f['innerText']='COMING\x20UP';_0xc77860[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)],_0x3ec1ab[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();}else{if(_0x5ecf5b==0x1){console[_0x5c80b5(0x1a5)](_0x5c80b5(0x1b5));if(_0x173e31['livescore'][_0x5c80b5(0x236)]=='Data\x20Not\x20Found'&&_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x19b)]==_0x5c80b5(0x21d))_0x1dfd2f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1fa),_0x28c217[_0x5c80b5(0x268)]['display']=_0x5c80b5(0x1ad),_0xc77860[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['title'],_0x3ec1ab[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();else{_0x7abb2f[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x1dfd2f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x274),_0x4956af[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x207)],_0x23df90[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)](),_0x43a610[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)]['slice'](0x0,0x3),_0x4d6a18[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)][_0x5c80b5(0x1ff)](0x5);_0x173e31[_0x5c80b5(0x224)]['recentballs']==_0x5c80b5(0x21d)?(_0x2b3dcc[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['lastwicket'][_0x173e31['livescore'][_0x5c80b5(0x1ea)][_0x5c80b5(0x1e6)]-0x1],_0x819f48[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)],_0x2de153[_0x5c80b5(0x1b8)]='No\x20Wickets'):(String(_0x173e31[_0x5c80b5(0x224)]['recentballs'][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)]['length']-0x1])=='d'?_0x2b3dcc[_0x5c80b5(0x1b8)]='Wd':_0x2b3dcc['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x173e31['livescore'][_0x5c80b5(0x18c)][_0x5c80b5(0x1e6)]-0x1],_0x819f48[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['recentballs'][_0x5c80b5(0x1ff)](0x5),_0x2de153[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['lastwicket']);_0x231c44[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['runrate']['substring'](0x5);_0x113e70==0x14||_0x113e70==0x32?(_0x1dfd2f['innerText']=_0x5c80b5(0x21b),_0x1dfd2f['style']['animation']=_0x5c80b5(0x23a)):(_0x1dfd2f[_0x5c80b5(0x1b8)]=_0x5c80b5(0x274),_0x1dfd2f[_0x5c80b5(0x268)][_0x5c80b5(0x183)]=_0x5c80b5(0x23a));if(_0x173e31[_0x5c80b5(0x224)]['batsman']=='Data\x20Not\x20Found')_0x256985['innerText']='-';else _0x256985[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)]==_0x5c80b5(0x21d))_0x3f1c3b['innerText']='-';else _0x3f1c3b[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x24a)]=='Data\x20Not\x20Found')_0x3cf0aa[_0x5c80b5(0x1b8)]='-';else _0x3cf0aa['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x24a)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1cc)]==_0x5c80b5(0x21d))_0x3861b9[_0x5c80b5(0x1b8)]='-';else _0x3861b9[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1cc)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27a)]==_0x5c80b5(0x21d))_0x32b99c[_0x5c80b5(0x1b8)]='-';else _0x32b99c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['sixes'];if(_0x173e31[_0x5c80b5(0x224)]['sr']==_0x5c80b5(0x21d))_0x5bdb05[_0x5c80b5(0x1b8)]='-';else _0x5bdb05[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['sr'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x225)]==_0x5c80b5(0x21d))_0x1bc13d[_0x5c80b5(0x1b8)]='-';else _0x1bc13d[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantwo'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1fc)]==_0x5c80b5(0x21d))_0x4c4cba[_0x5c80b5(0x1b8)]='-';else _0x4c4cba[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1fc)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)]==_0x5c80b5(0x21d))_0x593a49[_0x5c80b5(0x1b8)]='-';else _0x593a49[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)]['batsmantwofours']==_0x5c80b5(0x21d))_0xacef3b[_0x5c80b5(0x1b8)]='-';else _0xacef3b[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1db)];if(_0x173e31['livescore']['batsmantwosixes']==_0x5c80b5(0x21d))_0x320611[_0x5c80b5(0x1b8)]='-';else _0x320611[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x246)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x17e)]==_0x5c80b5(0x21d))_0x28f49a[_0x5c80b5(0x1b8)]='-';else _0x28f49a[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantwosr'];_0x173e31['livescore'][_0x5c80b5(0x239)]==_0x5c80b5(0x21d)?(_0x4e1491[_0x5c80b5(0x1b8)]='-',_0xee1baf[_0x5c80b5(0x1b8)]='-',_0x8ad211[_0x5c80b5(0x1b8)]='-',_0x10eb36[_0x5c80b5(0x1b8)]='-',_0x3a728c[_0x5c80b5(0x1b8)]='-'):(_0x4e1491[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x239)],_0xee1baf['innerText']=_0x173e31['livescore']['bowlerover'],_0x8ad211[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowlerruns'],_0x10eb36[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x185)],_0x3a728c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1bd)]);_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)]=='Data\x20Not\x20Found'?(_0x1632ba[_0x5c80b5(0x1b8)]='-',_0x4d2687[_0x5c80b5(0x1b8)]='-',_0x524f48[_0x5c80b5(0x1b8)]='-',_0x47ac9b[_0x5c80b5(0x1b8)]='-',_0x58e8e7[_0x5c80b5(0x1b8)]='-'):(_0x1632ba[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['bowlertwo'],_0x4d2687[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowletworover'],_0x524f48[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowlertworuns'],_0x47ac9b[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27c)],_0x58e8e7[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1d4)]);if(_0x173e31['livescore'][_0x5c80b5(0x226)]==_0x5c80b5(0x21d))_0x3e641a[_0x5c80b5(0x1b8)]='\x20\x20';else _0x3e641a['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x226)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18b)]=='Data\x20Not\x20Found')_0x14ff3d[_0x5c80b5(0x1b8)]='...';else _0x14ff3d[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['commentary'][0x0];}}else{if(_0x5ecf5b==0x2)console[_0x5c80b5(0x1a5)](_0x5c80b5(0x1df)),_0x38a82c[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x1dfd2f[_0x5c80b5(0x1ac)]=_0x5c80b5(0x1da),_0x253ead[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x207)],_0x29eeb7[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x19b)],_0x5c1f49['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1d5)],_0x31cd95[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();else{console[_0x5c80b5(0x1a5)]('ERROR\x20404');if(_0x5ecf5b==0x63)console['log'](_0x5c80b5(0x22b));window['location'][_0x5c80b5(0x240)]='../html/error.html';}}}}else{if(_0x558a59==0x3){const _0x3926c5=document[_0x5c80b5(0x21c)]('matchStatus3'),_0x4db157=document[_0x5c80b5(0x21c)]('upcomigMatchInfo3'),_0x1a6974=document['getElementById'](_0x5c80b5(0x276)),_0x12f236=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ce)),_0x2ea8fb=document['getElementById'](_0x5c80b5(0x215)),_0x533e07=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1a8)),_0x5cd16a=document['getElementById'](_0x5c80b5(0x1af)),_0x2258d3=document[_0x5c80b5(0x21c)]('battingTeam3'),_0x459de1=document['getElementById'](_0x5c80b5(0x1bc)),_0x3f5b67=document[_0x5c80b5(0x21c)](_0x5c80b5(0x230)),_0x2b8ed7=document['getElementById'](_0x5c80b5(0x237)),_0x28a44b=document[_0x5c80b5(0x21c)]('crr3'),_0x4d96a8=document['getElementById'](_0x5c80b5(0x1f6)),_0x261610=document[_0x5c80b5(0x21c)](_0x5c80b5(0x23c)),_0x1b01fa=document[_0x5c80b5(0x21c)](_0x5c80b5(0x17f)),_0x4bcee5=document['getElementById'](_0x5c80b5(0x25f)),_0xd56690=document[_0x5c80b5(0x21c)]('p16s3'),_0x15531d=document[_0x5c80b5(0x21c)]('p1strikeRate3'),_0x5edca4=document[_0x5c80b5(0x21c)](_0x5c80b5(0x263)),_0x45daa5=document[_0x5c80b5(0x21c)](_0x5c80b5(0x248)),_0x4f00c1=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c4)),_0x21cf14=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1cf)),_0x2b49ad=document[_0x5c80b5(0x21c)](_0x5c80b5(0x229)),_0x1619d3=document['getElementById']('p2strikeRate3'),_0x38916c=document['getElementById'](_0x5c80b5(0x187)),_0x2597dc=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1fb)),_0x406c35=document['getElementById'](_0x5c80b5(0x234)),_0x2916ef=document[_0x5c80b5(0x21c)](_0x5c80b5(0x21e)),_0x2bfeed=document[_0x5c80b5(0x21c)]('bp1m3'),_0x1bbd9b=document[_0x5c80b5(0x21c)]('bp23'),_0x1a1741=document[_0x5c80b5(0x21c)](_0x5c80b5(0x195)),_0x9b3c37=document['getElementById'](_0x5c80b5(0x199)),_0x53eb76=document['getElementById'](_0x5c80b5(0x20a)),_0x30d580=document[_0x5c80b5(0x21c)](_0x5c80b5(0x278)),_0x302701=document[_0x5c80b5(0x21c)](_0x5c80b5(0x22e)),_0xfa0e14=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1de)),_0x43c8ad=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1e4)),_0x242218=document[_0x5c80b5(0x21c)](_0x5c80b5(0x25d)),_0x4bf0b1=document['getElementById']('OMTitle33'),_0x3b081c=document[_0x5c80b5(0x21c)](_0x5c80b5(0x26c)),_0x4ac494=document[_0x5c80b5(0x21c)](_0x5c80b5(0x277)),_0x20bed9=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1ca)),_0x4a6f33=document[_0x5c80b5(0x21c)](_0x5c80b5(0x23e)),_0x4908ad=document[_0x5c80b5(0x21c)]('teamOne_ImageB3'),_0x3b493b=document[_0x5c80b5(0x21c)](_0x5c80b5(0x1c8));_0x2aaa64&&(_0x4a6f33[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x4908ad[_0x5c80b5(0x24b)]='../img/ipl_logos/'+_0xecdf51,_0x3b493b[_0x5c80b5(0x24b)]=_0x5c80b5(0x18d)+_0x12bb4a);if(_0x5ecf5b==0x0||_0x5ecf5b==0x3){console['log']('IN\x20SLIDE\x20:\x203\x20\x20COMING\x20UP'),_0x4db157[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad);if(_0x5ecf5b==0x3)_0x3926c5[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1a1);else _0x3926c5[_0x5c80b5(0x1b8)]='COMING\x20UP';_0x1a6974[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['title'],_0x12f236[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['update'][_0x5c80b5(0x257)]();}else{if(_0x5ecf5b==0x1){console[_0x5c80b5(0x1a5)](_0x5c80b5(0x26b));if(_0x173e31[_0x5c80b5(0x224)]['current']=='Data\x20Not\x20Found'&&_0x173e31[_0x5c80b5(0x224)]['teamone']=='Data\x20Not\x20Found')_0x3926c5[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1fa),_0x4db157['style'][_0x5c80b5(0x24d)]='block',_0x1a6974[_0x5c80b5(0x1b8)]=_0x173e31['livescore']['title'],_0x12f236[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x214)][_0x5c80b5(0x257)]();else{_0x2ea8fb[_0x5c80b5(0x268)][_0x5c80b5(0x24d)]=_0x5c80b5(0x1ad),_0x533e07['innerText']=_0x173e31[_0x5c80b5(0x224)]['title'],_0x5cd16a['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x214)][_0x5c80b5(0x257)](),_0x2258d3['innerText']=_0x173e31['livescore']['current'][_0x5c80b5(0x27b)](0x0,0x3),_0x459de1[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x236)][_0x5c80b5(0x1ff)](0x5);_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)]==_0x5c80b5(0x21d)?(_0x3f5b67[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)][_0x173e31['livescore']['lastwicket'][_0x5c80b5(0x1e6)]-0x1],_0x2b8ed7[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)],_0xfa0e14[_0x5c80b5(0x1b8)]=_0x5c80b5(0x196)):(String(_0x173e31['livescore'][_0x5c80b5(0x18c)][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x5c80b5(0x1e6)]-0x1])=='d'?_0x3f5b67[_0x5c80b5(0x1b8)]='Wd':_0x3f5b67['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18c)][_0x5c80b5(0x1e6)]-0x1],_0x2b8ed7[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x18c)][_0x5c80b5(0x1ff)](0x5),_0xfa0e14[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1ea)]);_0x28a44b['innerText']=_0x173e31['livescore'][_0x5c80b5(0x191)][_0x5c80b5(0x1ff)](0x5);_0x113e70==0x14||_0x113e70==0x32?(_0x3926c5[_0x5c80b5(0x1b8)]='BREAK',_0x3926c5[_0x5c80b5(0x268)][_0x5c80b5(0x183)]=_0x5c80b5(0x23a)):(_0x3926c5[_0x5c80b5(0x1b8)]=_0x5c80b5(0x274),_0x3926c5[_0x5c80b5(0x268)]['animation']='blink\x203s\x20infinite');if(_0x173e31[_0x5c80b5(0x224)]['batsman']==_0x5c80b5(0x21d))_0x4d96a8[_0x5c80b5(0x1b8)]='-';else _0x4d96a8[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x225)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x271)]=='Data\x20Not\x20Found')_0x261610[_0x5c80b5(0x1b8)]='-';else _0x261610[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmanrun'];if(_0x173e31['livescore'][_0x5c80b5(0x24a)]==_0x5c80b5(0x21d))_0x1b01fa[_0x5c80b5(0x1b8)]='-';else _0x1b01fa[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x24a)]['replace'](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)]['fours']=='Data\x20Not\x20Found')p14s3[_0x5c80b5(0x1b8)]='-';else p14s3[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1cc)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27a)]==_0x5c80b5(0x21d))_0xd56690['innerText']='-';else _0xd56690[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27a)];if(_0x173e31[_0x5c80b5(0x224)]['sr']==_0x5c80b5(0x21d))_0x15531d['innerText']='-';else _0x15531d[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['sr'];if(_0x173e31['livescore']['batsman']=='Data\x20Not\x20Found')_0x5edca4[_0x5c80b5(0x1b8)]='-';else _0x5edca4[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x206)];if(_0x173e31[_0x5c80b5(0x224)]['batsmantworun']==_0x5c80b5(0x21d))_0x45daa5[_0x5c80b5(0x1b8)]='-';else _0x45daa5[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x1fc)];if(_0x173e31[_0x5c80b5(0x224)]['batsmantwoballsfaced']==_0x5c80b5(0x21d))_0x4f00c1[_0x5c80b5(0x1b8)]='-';else _0x4f00c1[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1dd)][_0x5c80b5(0x1c3)](/[()]/g,'');if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1db)]==_0x5c80b5(0x21d))p24s3[_0x5c80b5(0x1b8)]='-';else p24s3['innerText']=_0x173e31['livescore']['batsmantwofours'];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x246)]==_0x5c80b5(0x21d))_0x2b49ad[_0x5c80b5(0x1b8)]='-';else _0x2b49ad[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['batsmantwosixes'];if(_0x173e31['livescore'][_0x5c80b5(0x17e)]=='Data\x20Not\x20Found')_0x1619d3[_0x5c80b5(0x1b8)]='-';else _0x1619d3['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x17e)];_0x173e31['livescore'][_0x5c80b5(0x239)]=='Data\x20Not\x20Found'?(_0x38916c[_0x5c80b5(0x1b8)]='-',_0x2597dc[_0x5c80b5(0x1b8)]='-',_0x406c35[_0x5c80b5(0x1b8)]='-',_0x2916ef['innerText']='-',_0x2bfeed['innerText']='-'):(_0x38916c[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x239)],_0x2597dc[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1aa)],_0x406c35['innerText']=_0x173e31[_0x5c80b5(0x224)]['bowlerruns'],_0x2916ef['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x185)],_0x2bfeed[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1bd)]);_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)]==_0x5c80b5(0x21d)?(_0x1bbd9b[_0x5c80b5(0x1b8)]='-',_0x1a1741['innerText']='-',_0x9b3c37[_0x5c80b5(0x1b8)]='-',_0x53eb76['innerText']='-',_0x30d580[_0x5c80b5(0x1b8)]='-'):(_0x1bbd9b['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x221)],_0x1a1741[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['bowletworover'],_0x9b3c37['innerText']=_0x173e31['livescore'][_0x5c80b5(0x242)],_0x53eb76[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x27c)],_0x30d580['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1d4)]);if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x226)]==_0x5c80b5(0x21d))_0x302701[_0x5c80b5(0x1b8)]='\x20\x20';else _0x302701[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x226)];if(_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x18b)]==_0x5c80b5(0x21d))_0x43c8ad[_0x5c80b5(0x1b8)]=_0x5c80b5(0x1c5);else _0x43c8ad[_0x5c80b5(0x1b8)]=_0x173e31['livescore'][_0x5c80b5(0x18b)][0x0];}}else{if(_0x5ecf5b==0x2)console['log']('IN\x20SLIDE\x20:\x203\x20COMPLETED'),_0x242218[_0x5c80b5(0x268)]['display']=_0x5c80b5(0x1ad),_0x3926c5[_0x5c80b5(0x1ac)]='COMPLETED',_0x4bf0b1['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x207)],_0x3b081c[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['teamone'],_0x4ac494['innerText']=_0x173e31[_0x5c80b5(0x224)][_0x5c80b5(0x1d5)],_0x20bed9[_0x5c80b5(0x1b8)]=_0x173e31[_0x5c80b5(0x224)]['update'][_0x5c80b5(0x257)]();else{console[_0x5c80b5(0x1a5)](_0x5c80b5(0x27d));if(_0x5ecf5b==0x63)console[_0x5c80b5(0x1a5)](_0x5c80b5(0x22b));window[_0x5c80b5(0x19d)][_0x5c80b5(0x240)]=_0x5c80b5(0x252);}}}}}}}}};function refreshThis(_0x4aae56,_0x3c4db4,_0x22794c){const _0x5c285b=_0x2de5f5;var _0x284815=window[_0x5c285b(0x1fd)](function(){const _0x378860=_0x5c285b;getMatchInfo(_0x4aae56,_0x3c4db4,_0x22794c)[_0x378860(0x23b)](_0x42b138=>{const _0x11214a=_0x378860;updateDOM(_0x42b138[_0x11214a(0x21a)],_0x22794c,_0x42b138[_0x11214a(0x1b2)]),console['log']('REFRESHING...'),(_0x42b138['value']==0x2||_0x42b138[_0x11214a(0x1b2)]==0x3)&&clearInterval(_0x284815);});},0x1f40);}function main(_0x9eaa8c){const _0x265e17=_0x2de5f5;if(_0x9eaa8c===0x0)getMatchInfo(m0ID,baseAPI,0x0)[_0x265e17(0x23b)](_0x56dfa3=>{const _0x2d632f=_0x265e17;console['log'](_0x56dfa3[_0x2d632f(0x21a)]),console[_0x2d632f(0x1a5)](_0x56dfa3['value']),updateDOM(_0x56dfa3[_0x2d632f(0x21a)],0x0,_0x56dfa3[_0x2d632f(0x1b2)]),refreshThis(m0ID,baseAPI,0x0);})[_0x265e17(0x256)](_0x1fdb74=>{const _0x69c69d=_0x265e17;console[_0x69c69d(0x1a5)](_0x1fdb74),window[_0x69c69d(0x19d)][_0x69c69d(0x240)]=_0x69c69d(0x252);});else{if(_0x9eaa8c===0x1)getMatchInfo(m1ID,baseAPI,0x1)[_0x265e17(0x23b)](_0x1381bf=>{const _0x560cbb=_0x265e17;console[_0x560cbb(0x1a5)](_0x1381bf[_0x560cbb(0x21a)]),console[_0x560cbb(0x1a5)](_0x1381bf[_0x560cbb(0x1b2)]),updateDOM(_0x1381bf[_0x560cbb(0x21a)],0x1,_0x1381bf[_0x560cbb(0x1b2)]),refreshThis(m1ID,baseAPI,0x1);})['catch'](_0x119144=>{const _0x7fdf54=_0x265e17;console[_0x7fdf54(0x1a5)](_0x119144),window['location']['href']='../html/error.html';});else{if(_0x9eaa8c===0x2)getMatchInfo(m2ID,baseAPI,0x2)['then'](_0x3f7857=>{const _0x1fbcb9=_0x265e17;console['log'](_0x3f7857['data']),console[_0x1fbcb9(0x1a5)](_0x3f7857['value']),updateDOM(_0x3f7857[_0x1fbcb9(0x21a)],0x2,_0x3f7857[_0x1fbcb9(0x1b2)]),refreshThis(m2ID,baseAPI,0x2);})[_0x265e17(0x256)](_0x4b3605=>{const _0x9cb8cb=_0x265e17;console[_0x9cb8cb(0x1a5)](_0x4b3605),window[_0x9cb8cb(0x19d)]['href']=_0x9cb8cb(0x252);});else _0x9eaa8c===0x3?getMatchInfo(m3ID,baseAPI,0x3)[_0x265e17(0x23b)](_0x2728e0=>{const _0x2a81fc=_0x265e17;console[_0x2a81fc(0x1a5)](_0x2728e0[_0x2a81fc(0x21a)]),console[_0x2a81fc(0x1a5)](_0x2728e0[_0x2a81fc(0x1b2)]),updateDOM(_0x2728e0[_0x2a81fc(0x21a)],0x3,_0x2728e0[_0x2a81fc(0x1b2)]),refreshThis(m3ID,baseAPI,0x3);})[_0x265e17(0x256)](_0x3fb456=>{const _0x334edc=_0x265e17;console[_0x334edc(0x1a5)](_0x3fb456),window[_0x334edc(0x19d)][_0x334edc(0x240)]=_0x334edc(0x252);}):console[_0x265e17(0x1a5)](_0x265e17(0x25b));}}}window['onload']=async function(){const _0x3af582=_0x2de5f5;slideTo(0x1);const _0x57b6bd=await getMatchID(server);_0x57b6bd?(m0ID=_0x57b6bd[0x0],m1ID=_0x57b6bd[0x1],m2ID=_0x57b6bd[0x2],m3ID=_0x57b6bd[0x3],main(0x1)):(console[_0x3af582(0x1a5)](_0x3af582(0x1fe)),window[_0x3af582(0x19d)][_0x3af582(0x240)]=_0x3af582(0x252));},setInterval(function(){const _0x136e22=_0x2de5f5;location[_0x136e22(0x197)](),console[_0x136e22(0x1a5)]('------------------------------------PAGE\x20RELOAD------------------------------------------');},0x3a980);
+//DOM Elements :
+const sliderWrapper = document.querySelector('.slider-wrapper');
+const sliderSlides = document.querySelectorAll('.slider-slide');
+const sliderControlLeft = document.querySelector('.slider-control--left');
+const sliderControlRight = document.querySelector('.slider-control--right');
+const errorMessage = document.getElementById('errorMessage')
+
+
+/**
+Function :
+0.main(currentValue)
+1.slideTo(index)
+2.slideNext()
+3.slidePrev()
+4.getValue(data,currentValue)
+5.getMatchID(server)  : server.js {express server for fetching match ID : node server.js [http://localhost:4000/]}
+6.getMatchInfo(matchID,baseAPI,currentValue)
+7.updateDOM(data,currentValue,matchID,Value01)
+
+*/
+
+// Variables : 
+let slideIndex = 1;
+let value = 1;
+let currentValue;
+let m0ID, m1ID, m2ID, m3ID; 
+let Value ;
+
+//for testing
+// let baseAPI = 'http://localhost:3000/data'
+// let server = ' http://localhost:4000'
+
+let baseAPI = `https://harsha-cricket-api01.vercel.app/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/`;
+let server =  'https://url-scraper-harshax07.onrender.com'
+
+
+
+
+
+function slideTo(index) {
+sliderSlides[slideIndex].classList.remove('active');
+sliderSlides[index].classList.add('active');
+sliderWrapper.style.transform = `translateX(-${index * 25}%)`;
+slideIndex = index;
+}
+
+function slideNext() {
+    if (slideIndex === sliderSlides.length - 1) {
+    } else {
+        slideTo(slideIndex + 1);
+        value++
+            return value
+        }
+}
+
+function slidePrev() {
+            
+        if (slideIndex === 0) {
+        } else {
+            slideTo(slideIndex - 1);
+            value--
+            return value
+        }
+}
+
+
+sliderControlLeft.addEventListener('click', 
+function(){
+var slideValue = slidePrev()
+main(slideValue)
+});
+
+sliderControlRight.addEventListener('click', 
+function(){
+let slideValue = slideNext()
+main(slideValue)
+});
+
+getValue =(data,currentValue) =>{
+if(data.livescore.update.includes('upcoming') || data.livescore.update.includes('Starts at') || data.livescore.update.includes('starts at') || data.livescore.update.includes('Preview') ) Value = 0; // upcomig
+else if(data.livescore.update.includes('need') || data.livescore.update.includes('opt') || data.livescore.update.includes('Innings Break')) Value = 1; // toss and live
+else if (data.livescore.update.includes('won')) Value = 2;  // over or won
+else if(data.livescore.update.includes('rain')) Value = 3; // rain // delay 
+else Value = 99; 
+// if(Value == 1 || 0) slideTo(currentValue)
+return Value
+}
+
+async function getMatchID(server) {
+try {
+const match_IDarray = await fetch(server);
+const match_ID_JSON = await match_IDarray.json();
+// console.log(match_ID_JSON);
+return match_ID_JSON;
+} catch (error) {
+// handle the error
+errorMessage.style.display = "block";
+errorMessage.innerText = "ERROR : Server Not Found" ; errorMessage.style.color ="red";
+}
+}
+
+
+async function getMatchInfo(matchID, baseAPI, currentValue){
+const URL = baseAPI + matchID;
+//for testing
+// const URL = "http://localhost:3000/data"
+const response = await fetch(URL);
+const data = await response.json();
+let Value01 = getValue(data, currentValue);
+// console.log("[For Checking]");
+// console.log("Match ID:", matchID);
+// console.log("Current Value:", currentValue);
+// console.log("Value:", Value01);
+// console.log(data);
+
+return {
+data: data,
+value: Value01
+};
+
+};
+
+
+
+function updateDOM (data,currentValue,Value01) 
+{   
+if(data.livescore.title =='Data Not Found')
+    {
+    window.location.href = '../html/error.html';
+    }
+else{
+    
+    let over;
+    let isIPL;
+    let team1Abbreviation,team2Abbreviation;
+    // if(data.livescore.current != "Data Not Found")  over = data.livescore.current.match(/\((\d+)\)/)[1];
+    var ipl_teams = ['Chennai Super Kings','Delhi Capitals','Gujarat Titans','Mumbai Indians','Kolkata Knight Riders','Sunrisers Hyderabad','Punjab Kings','Lucknow Super Giants','Royal Challengers Bangalore','Rajasthan Royals']
+
+    if(ipl_teams.includes(data.livescore.title)){
+        isIPL = true;
+        const matchString = data.livescore.title
+        const matchTitle = matchString.split(',')[0];
+        // console.log({matchTitle})
+        const teams = matchTitle.split(" vs ");
+        // console.log({ teams })
+        const team1 = teams[0]; 
+        const team2 = teams[1];
+         team1Abbreviation = team1.match(/\b\w/g).join('') + ".jpg";
+         team2Abbreviation = team2.match(/\b\w/g).join('') + ".jpg";
+    }
+    // for testing  start
+    // isIPL = true; 
+    // const team1 = 'Lucknow Super Giants'; 
+    // const team2 = 'Sunrisers Hyderabad';
+    // team1Abbreviation = team1.match(/\b\w/g).join('') + ".jpg";
+    // team2Abbreviation = team2.match(/\b\w/g).join('') + ".jpg";
+    // Value01 = 1;
+    //for testing end
+    // box 0
+    if(currentValue == 0){
+
+        // DOM ELEMENTS FOR BOX 0 :
+        const matchStatus0 = document.getElementById('matchStatus0')
+        // UPCOMING 0
+        const upcomigMatchInfo0 = document.getElementById('upcomigMatchInfo0')
+        const UpcomingTitle0 = document.getElementById('UpcomingTitle0')
+        const UpcomingUpdate0 = document.getElementById('UpcomingUpdate0')
+
+        // LIVE 0
+        const liveMatchInfo0 = document.getElementById('liveMatchInfo0')
+        const title0 = document.getElementById('title0')
+        const update0 = document.getElementById('update0')
+        const battingTeam0 = document.getElementById('battingTeam0')
+        const currentScore0 = document.getElementById('currentScore0')
+        const lastRun0 = document.getElementById('lastRun0')
+        const overRun0 = document.getElementById('overRun0')
+        const crr0 = document.getElementById('crr0')
+        const p10 = document.getElementById('p10')
+        const p1Run0 = document.getElementById('p1Run0')
+        const p1Ball0 = document.getElementById('p1Ball0')
+        const p14s0 = document.getElementById('p14s0')
+        const p16s0 = document.getElementById('p16s0')
+        const p1strikeRate0 = document.getElementById('p1strikeRate0')
+        const p20 = document.getElementById('p20')
+        const p2Run0 = document.getElementById('p2Run0')
+        const p2Ball0 = document.getElementById('p2Ball0')
+        const p24s0 = document.getElementById('p24s0')
+        const p26s0= document.getElementById('p26s0')
+        const p2strikeRate0 = document.getElementById('p2strikeRate0')
+        const bp10 = document.getElementById('bp10')
+        const bp1o0 = document.getElementById('bp1o0')
+        const bp1r0 = document.getElementById('bp1r0')
+        const bp1w0 = document.getElementById('bp1w0')
+        const bp1m0 = document.getElementById('bp1m0')
+        const bp20 = document.getElementById('bp20')
+        const bp2o0 = document.getElementById('bp2o0')
+        const bp2r0 = document.getElementById('bp2r0')
+        const bp2w0 = document.getElementById('bp2w0')
+        const bp2m0 = document.getElementById('bp2m0')
+        const partnership0 = document.getElementById('partnership0')
+        const lastWicket0 = document.getElementById('lastWicket0')
+        const commentaryText0 = document.getElementById('commentary-text0')
+
+        //COMPLETED  0
+        const overMatchInfo0 = document.getElementById('overMatchInfo0')
+        const OMTitle30 = document.getElementById('OMTitle30')
+        const teamOne0 = document.getElementById('team-one0')
+        const teamTwo0 = document.getElementById('team-two0')
+        const OMUpdate30 = document.getElementById('OMUpdate30')
+
+        //TEAM-logo DOM element 0
+        const teamLogo_box0 = document.getElementById('teamLogo_box0')
+        const teamOne_ImageB0 = document.getElementById('teamOne_ImageB0') 
+        const teamTwo_ImageB0 = document.getElementById('teamTwo_ImageB0')
+
+        // console.log(team1Abbreviation)
+        // console.log(team2Abbreviation)
+        // console.log(data.livescore.title)   
+
+        if(isIPL){
+                teamLogo_box0.style.display ="block";
+                teamOne_ImageB0.src = `../img/ipl_logos/${team1Abbreviation}`
+                teamTwo_ImageB0.src = `../img/ipl_logos/${team2Abbreviation}`
+                
+            }
+
+
+        if(Value01 == 0 || Value01 == 3){
+            //coming up
+            upcomigMatchInfo0.style.display = "block";
+            if(Value01 == 3) matchStatus0.innerText = 'RAIN'
+            else  matchStatus0.innerText = 'COMING UP'
+            UpcomingTitle0.innerText = data.livescore.title
+            UpcomingUpdate0.innerText = data.livescore.update.toUpperCase()
+        }
+        else if(Value01 == 1){
+            // live
+            if(data.livescore.current == "Data Not Found" && data.livescore.teamone == "Data Not Found")
+            {
+                //Toss
+                matchStatus0.innerText = 'TOSS'
+                upcomigMatchInfo0.style.display = "block";
+                UpcomingTitle0.innerText = data.livescore.title
+                UpcomingUpdate0.innerText = data.livescore.update.toUpperCase()
+                
+            }
+            else{
+
+                //Match Stated
+                liveMatchInfo0.style.display = "block";
+                title0.innerText = data.livescore.title
+                update0.innerText =  data.livescore.update.toUpperCase();
+                battingTeam0.innerText = data.livescore.current.slice(0, 3)
+                currentScore0.innerText = data.livescore.current.substring(5)
+                
+                if(data.livescore.recentballs == "Data Not Found") {
+                    lastRun0.innerText = data.livescore.lastwicket[data.livescore.lastwicket.length-1]
+                    overRun0.innerText = data.livescore.lastwicket
+                    lastWicket0.innerText = 'No Wickets'
+                }
+                else{
+                    if(String (data.livescore.recentballs[data.livescore.recentballs.length-1]) == 'd' )
+                    {
+                        lastRun0.innerText = 'Wd' //i am in
+                    }
+                    else{
+                        lastRun0.innerText = data.livescore.recentballs[data.livescore.recentballs.length-1]
+                    }
+                    overRun0.innerText = data.livescore.recentballs.substring(5)
+                    lastWicket0.innerText = data.livescore.lastwicket
+                }
+                crr0.innerText = data.livescore.runrate.substring(5)
+                if(over == 20 || over == 50 ) {
+                    matchStatus0.innerText = "BREAK"; matchStatus0.style.animation = "blink 3s infinite";
+                    
+                }
+                else {
+                    matchStatus0.innerText = "LIVE"; matchStatus0.style.animation = "blink 3s infinite";
+                   
+
+                } 
+            
+                //p1
+                if(data.livescore.batsman == "Data Not Found") p10.innerText ="-"
+                else
+                p10.innerText = data.livescore.batsman
+                if(data.livescore.batsmanrun == "Data Not Found") p1Run0.innerText ="-"
+                else
+                p1Run0.innerText = data.livescore.batsmanrun
+                if(data.livescore.ballsfaced == "Data Not Found") p1Ball0.innerText ="-"
+                else
+                p1Ball0.innerText = data.livescore.ballsfaced.replace(/[()]/g, "")
+                if(data.livescore.fours == "Data Not Found") p14s0.innerText ="-"
+                else
+                p14s0.innerText = data.livescore.fours
+                if(data.livescore.sixes == "Data Not Found") p16s0.innerText ="-"
+                else
+                p16s0.innerText = data.livescore.sixes
+                if(data.livescore.sr == "Data Not Found") p1strikeRate0.innerText ="-"
+                else
+                p1strikeRate0.innerText = data.livescore.sr
+
+
+                //p2
+                if(data.livescore.batsman == "Data Not Found") p20.innerText ="-"
+                else
+                p20.innerText = data.livescore.batsmantwo
+
+                if(data.livescore.batsmantworun == "Data Not Found") p2Run0.innerText ="-"
+                else
+                p2Run0.innerText = data.livescore.batsmantworun
+
+                if(data.livescore.batsmantwoballsfaced == "Data Not Found") p2Ball0.innerText ="-"
+                else
+                p2Ball0.innerText = data.livescore.batsmantwoballsfaced.replace(/[()]/g, "")
+
+                if(data.livescore.batsmantwofours == "Data Not Found") p24s0.innerText ="-"
+                else
+                p24s0.innerText = data.livescore.batsmantwofours
+
+                if(data.livescore.batsmantwosixes == "Data Not Found") p26s0.innerText ="-"
+                else
+                p26s0.innerText = data.livescore.batsmantwosixes
+
+                if(data.livescore.batsmantwosr == "Data Not Found") p2strikeRate0.innerText ="-"
+                else
+                p2strikeRate0.innerText = data.livescore.batsmantwosr
+
+    
+                //bp1
+                if(data.livescore.bowler== "Data Not Found") {
+                    bp10.innerText = '-' 
+                    bp1o0.innerText = '-'
+                    bp1r0.innerText = '-'
+                    bp1w0.innerText = '-'
+                    bp1m0.innerText = '-'
+                }
+                else{
+                    bp10.innerText = data.livescore.bowler
+                    bp1o0.innerText = data.livescore.bowlerover
+                    bp1r0.innerText = data.livescore.bowlerruns
+                    bp1w0.innerText = data.livescore.bowlerwickets
+                    bp1m0.innerText = data.livescore.bowlermaiden
+
+                }
+                //bp2
+                if( data.livescore.bowlertwo == "Data Not Found"){
+                    bp20.innerText ='-'
+                    bp2o0.innerText ='-'
+                    bp2r0.innerText = '-'
+                    bp2w0.innerText = '-'
+                    bp2m0.innerText = '-'
+
+                }
+                else{
+                    bp20.innerText = data.livescore.bowlertwo
+                    bp2o0.innerText = data.livescore.bowletworover
+                    bp2r0.innerText = data.livescore.bowlertworuns
+                    bp2w0.innerText = data.livescore.bowlertwowickets
+                    bp2m0.innerText = data.livescore.bowlertwomaiden
+
+                }
+                
+            if(data.livescore.partnership0 == 'Data Not Found') partnership.innerText = '  '
+            else
+            partnership0.innerText = data.livescore.partnership
+
+            if(data.livescore.commentary=='Data Not Found') commentaryText0.innerText = '...'
+            else commentaryText0.innerText = data.livescore.commentary[0]
+
+            }               
+        }
+
+        else if(Value01 == 2){
+            // over
+            overMatchInfo0.style.display = "block";
+            matchStatus0.innerHTML = "COMPLETED"
+            OMTitle30.innerText = data.livescore.title
+            teamOne0.innerText = data.livescore.teamone
+            teamTwo0.innerText = data.livescore.teamtwo
+            OMUpdate30.innerText = data.livescore.update.toUpperCase();
+        }
+        else{
+            // some thing went wrong
+            if(Value01 == 99) console.log("Error From server")
+            window.location.href = '../html/error.html';
+        }
+    }
+
+    // box 1
+    else if(currentValue == 1){
+        // DOM ELEMENTS FOR BOX 1 :
+        const matchStatus1 = document.getElementById('matchStatus1');
+        //UPCOMING 1
+        const upcomigMatchInfo1 = document.getElementById('upcomigMatchInfo1');
+        const UpcomingTitle1 = document.getElementById('UpcomingTitle1');
+        const UpcomingUpdate1 = document.getElementById('UpcomingUpdate1');
+
+        //LIVE 1
+        const liveMatchInfo1 = document.getElementById('liveMatchInfo1');
+        const title1 = document.getElementById('title1');
+        const update1 = document.getElementById('update1');
+        const battingTeam1 = document.getElementById('battingTeam1');
+        const currentScore1 = document.getElementById('currentScore1');
+        const lastRun1 = document.getElementById('lastRun1');
+        const overRun1 = document.getElementById('overRun1');
+        const crr1 = document.getElementById('crr1');
+        const p11 = document.getElementById('p11');
+        const p1Run1 = document.getElementById('p1Run1');
+        const p1Ball1 = document.getElementById('p1Ball1');
+        const p14s1 = document.getElementById('p14s1');
+        const p16s1 = document.getElementById('p16s1');
+        const p1strikeRate1 = document.getElementById('p1strikeRate1');
+        const p21 = document.getElementById('p21');
+        const p2Run1 = document.getElementById('p2Run1');
+        const p2Ball1 = document.getElementById('p2Ball1');
+        const p24s1 = document.getElementById('p24s1');
+        const p26s1 = document.getElementById('p26s1');
+        const p2strikeRate1 = document.getElementById('p2strikeRate1');
+        const bp11 = document.getElementById('bp11');
+        const bp1o1 = document.getElementById('bp1o1');
+        const bp1r1 = document.getElementById('bp1r1');
+        const bp1w1 = document.getElementById('bp1w1');
+        const bp1m1 = document.getElementById('bp1m1');
+        const bp21 = document.getElementById('bp21');
+        const bp2o1 = document.getElementById('bp2o1');
+        const bp2r1 = document.getElementById('bp2r1');
+        const bp2w1 = document.getElementById('bp2w1');
+        const bp2m1 = document.getElementById('bp2m1');
+        const partnership1 = document.getElementById('partnership1');
+        const lastWicket1 = document.getElementById('lastWicket1');
+        const commentaryText1 = document.getElementById('commentary-text1');
+
+        //Completed 1
+        const overMatchInfo1 = document.getElementById('overMatchInfo1');
+        const OMTitle31 = document.getElementById('OMTitle31');
+        const teamOne1 = document.getElementById('team-one1');
+        const teamTwo1 = document.getElementById('team-two1');
+        const OMUpdate31 = document.getElementById('OMUpdate31');
+
+        //TEAM-log DOM element 
+        const teamLogo_box1 = document.getElementById('teamLogo_box1')
+        const teamOne_ImageB1 = document.getElementById('teamOne_ImageB1') 
+        const teamTwo_ImageB1 = document.getElementById('teamTwo_ImageB1')
+    
+        // console.log(team1Abbreviation)
+        // console.log(team2Abbreviation)
+        // console.log(data.livescore.title)   
+        if(isIPL){
+                teamLogo_box1.style.display ="block";
+                teamOne_ImageB1.src = `../img/ipl_logos/${team1Abbreviation}`
+                teamTwo_ImageB1.src = `../img/ipl_logos/${team2Abbreviation}`
+                
+            }
+
+            if(Value01 == 0 || Value01 == 3){
+                //coming up
+                upcomigMatchInfo1.style.display = "block";
+                if(Value01 == 3) matchStatus1.innerText = 'RAIN'
+                else  matchStatus1.innerText = 'COMING UP'
+                UpcomingTitle1.innerText = data.livescore.title
+                UpcomingUpdate1.innerText = data.livescore.update.toUpperCase()
+               
+            }
+            else if(Value01 == 1){
+                // live
+                if(data.livescore.current == "Data Not Found" && data.livescore.teamone == "Data Not Found"){
+                     //Toss
+                     matchStatus1.innerText = 'TOSS'
+                     upcomigMatchInfo1.style.display = "block";
+                     UpcomingTitle1.innerText = data.livescore.title
+                     UpcomingUpdate1.innerText = data.livescore.update.toUpperCase()
+                }
+                else{
+                    // Match started
+                    liveMatchInfo1.style.display = "block";
+                    title1.innerText = data.livescore.title
+                    update1.innerText =  data.livescore.update.toUpperCase();
+                    battingTeam1.innerText = data.livescore.current.slice(0, 3)
+                    currentScore1.innerText = data.livescore.current.substring(5)
+                    if(data.livescore.recentballs == "Data Not Found") {
+                        lastRun1.innerText = data.livescore.lastwicket[data.livescore.lastwicket.length-1]
+                        overRun1.innerText = data.livescore.lastwicket
+                        lastWicket1.innerText = 'No Wickets'
+                    }
+                    else{
+                        if(String (data.livescore.recentballs[data.livescore.recentballs.length-1]) == 'd' )
+                        {
+                            lastRun1.innerText = 'Wd' //i am in
+                        }
+                        else{
+                            lastRun1.innerText = data.livescore.recentballs[data.livescore.recentballs.length-1]
+                        }
+                        overRun1.innerText = data.livescore.recentballs.substring(5)
+                        lastWicket1.innerText = data.livescore.lastwicket
+                    }
+                    crr1.innerText = data.livescore.runrate.substring(5)
+                    if(over == 20 || over == 50 ) {
+                        matchStatus1.innerText = "BREAK"; matchStatus1.style.animation = "blink 3s infinite";
+                        
+                    }
+                    else {
+                        matchStatus1.innerText = "LIVE"; matchStatus1.style.animation = "blink 3s infinite"; 
+
+                    } 
+                
+                    //p1
+                    if(data.livescore.batsman == "Data Not Found") p11.innerText ="-"
+                    else
+                    p11.innerText = data.livescore.batsman
+                    if(data.livescore.batsmanrun == "Data Not Found") p1Run1.innerText ="-"
+                    else
+                    p1Run1.innerText = data.livescore.batsmanrun
+                    if(data.livescore.ballsfaced == "Data Not Found") p1Ball1.innerText ="-"
+                    else
+                    p1Ball1.innerText = data.livescore.ballsfaced.replace(/[()]/g, "")
+                    if(data.livescore.fours == "Data Not Found") p14s1.innerText ="-"
+                    else
+                    p14s1.innerText = data.livescore.fours
+                    if(data.livescore.sixes == "Data Not Found") p16s1.innerText ="-"
+                    else
+                    p16s1.innerText = data.livescore.sixes
+                    if(data.livescore.sr == "Data Not Found") p1strikeRate1.innerText ="-"
+                    else
+                    p1strikeRate1.innerText = data.livescore.sr
+
+
+                    //p2
+                    if(data.livescore.batsman == "Data Not Found") p21.innerText ="-"
+                    else
+                    p21.innerText = data.livescore.batsmantwo
+
+                    if(data.livescore.batsmantworun == "Data Not Found") p2Run1.innerText ="-"
+                    else
+                    p2Run1.innerText = data.livescore.batsmantworun
+
+                    if(data.livescore.batsmantwoballsfaced == "Data Not Found") p2Ball1.innerText ="-"
+                    else
+                    p2Ball1.innerText = data.livescore.batsmantwoballsfaced.replace(/[()]/g, "")
+
+                    if(data.livescore.batsmantwofours == "Data Not Found") p24s1.innerText ="-"
+                    else
+                    p24s1.innerText = data.livescore.batsmantwofours
+
+                    if(data.livescore.batsmantwosixes == "Data Not Found") p26s1.innerText ="-"
+                    else
+                    p26s1.innerText = data.livescore.batsmantwosixes
+
+                    if(data.livescore.batsmantwosr == "Data Not Found") p2strikeRate1.innerText ="-"
+                    else
+                    p2strikeRate1.innerText = data.livescore.batsmantwosr
+
+        
+                    //bp1
+                    if(data.livescore.bowler== "Data Not Found") {
+                        bp11.innerText = '-' 
+                        bp1o1.innerText = '-'
+                        bp1r1.innerText = '-'
+                        bp1w1.innerText = '-'
+                        bp1m1.innerText = '-'
+                    }
+                    else{
+                        bp11.innerText = data.livescore.bowler
+                        bp1o1.innerText = data.livescore.bowlerover
+                        bp1r1.innerText = data.livescore.bowlerruns
+                        bp1w1.innerText = data.livescore.bowlerwickets
+                        bp1m1.innerText = data.livescore.bowlermaiden
+
+                    }
+                    //bp2
+                    if( data.livescore.bowlertwo == "Data Not Found"){
+                        bp21.innerText ='-'
+                        bp2o1.innerText ='-'
+                        bp2r1.innerText = '-'
+                        bp2w1.innerText = '-'
+                        bp2m1.innerText = '-'
+
+                    }
+                    else{
+                        bp21.innerText = data.livescore.bowlertwo
+                        bp2o1.innerText = data.livescore.bowletworover
+                        bp2r1.innerText = data.livescore.bowlertworuns
+                        bp2w1.innerText = data.livescore.bowlertwowickets
+                        bp2m1.innerText = data.livescore.bowlertwomaiden
+
+                    }
+
+                    
+                if(data.livescore.partnership == 'Data Not Found') partnership1.innerText = '  '
+                else
+                partnership1.innerText = data.livescore.partnership
+
+                if(data.livescore.commentary=='Data Not Found') commentaryText1.innerText = '...'
+                else commentaryText1.innerText = data.livescore.commentary[0]
+
+                }
+                
+            }
+
+            else if(Value01 == 2){
+                // over
+                overMatchInfo1.style.display = "block";
+                matchStatus1.innerHTML = "COMPLETED"
+                // OMTitle1.innerText = data.livescore.title
+                OMTitle31.innerText = data.livescore.title
+                teamOne1.innerText = data.livescore.teamone
+                teamTwo1.innerText = data.livescore.teamtwo
+                OMUpdate31.innerText = data.livescore.update.toUpperCase();
+            }
+            else{
+                // some thing went wrong
+                if(Value01 == 99) console.log("Error From server")
+                window.location.href = '../html/error.html';
+            }
+    }
+    
+    
+    //box 2
+    else if(currentValue == 2){
+
+         // DOM ELEMENTS FOR BOX 0 :
+        const matchStatus2 = document.getElementById('matchStatus2');
+        // UPCOMING 2
+        const upcomigMatchInfo2 = document.getElementById('upcomigMatchInfo2');
+        const UpcomingTitle2 = document.getElementById('UpcomingTitle2');
+        const UpcomingUpdate2 = document.getElementById('UpcomingUpdate2');
+
+        // LIVE 2
+        const liveMatchInfo2 = document.getElementById('liveMatchInfo2');
+        const title2 = document.getElementById('title2');
+        const update2 = document.getElementById('update2');
+        const battingTeam2 = document.getElementById('battingTeam2');
+        const currentScore2 = document.getElementById('currentScore2');
+        const lastRun2 = document.getElementById('lastRun2');
+        const overRun2 = document.getElementById('overRun2');
+        const crr2 = document.getElementById('crr2');
+        const p12 = document.getElementById('p12');
+        const p1Run2 = document.getElementById('p1Run2');
+        const p1Ball2 = document.getElementById('p1Ball2');
+        const p14s2 = document.getElementById('p14s2');
+        const p16s2 = document.getElementById('p16s2');
+        const p1strikeRate2 = document.getElementById('p1strikeRate2');
+        const p22 = document.getElementById('p22');
+        const p2Run2 = document.getElementById('p2Run2');
+        const p2Ball2 = document.getElementById('p2Ball2');
+        const p24s2 = document.getElementById('p24s2');
+        const p26s2 = document.getElementById('p26s2');
+        const p2strikeRate2 = document.getElementById('p2strikeRate2');
+        const bp12 = document.getElementById('bp12');
+        const bp1o2 = document.getElementById('bp1o2');
+        const bp1r2 = document.getElementById('bp1r2');
+        const bp1w2 = document.getElementById('bp1w2');
+        const bp1m2 = document.getElementById('bp1m2');
+        const bp22 = document.getElementById('bp22');
+        const bp2o2 = document.getElementById('bp2o2');
+        const bp2r2 = document.getElementById('bp2r2');
+        const bp2w2 = document.getElementById('bp2w2');
+        const bp2m2 = document.getElementById('bp2m2');
+        const partnership2 = document.getElementById('partnership2');
+        const lastWicket2 = document.getElementById('lastWicket2');
+        const commentaryText2 = document.getElementById('commentary-text2');
+
+        // COMPLETED 2
+        const overMatchInfo2 = document.getElementById('overMatchInfo2');
+        const OMTitle32 = document.getElementById('OMTitle32');
+        const teamOne2 = document.getElementById('team-one2');
+        const teamTwo2 = document.getElementById('team-two2');
+        const OMUpdate32 = document.getElementById('OMUpdate32');
+
+
+        //TEAM-logo DOM element 2
+        const teamLogo_box2 = document.getElementById('teamLogo_box2')
+        const teamOne_ImageB2 = document.getElementById('teamOne_ImageB2') 
+        const teamTwo_ImageB2 = document.getElementById('teamTwo_ImageB2')
+
+        // console.log(team1Abbreviation)
+        // console.log(team2Abbreviation)
+        // console.log(data.livescore.title)   
+
+        if(isIPL){
+                teamLogo_box2.style.display ="block";
+                teamOne_ImageB2.src = `../img/ipl_logos/${team1Abbreviation}`
+                teamTwo_ImageB2.src = `../img/ipl_logos/${team2Abbreviation}`
+                
+            }
+
+
+            if(Value01 == 0  || Value01 == 3){
+                 //coming up
+                 upcomigMatchInfo2.style.display = "block";
+                 if(Value01 == 3) matchStatus2.innerText = 'RAIN'
+                 else  matchStatus2.innerText = 'COMING UP'
+                 UpcomingTitle2.innerText = data.livescore.title
+                 UpcomingUpdate2.innerText = data.livescore.update.toUpperCase()
+               
+            }
+            else if(Value01 == 1){
+                // live
+                if(data.livescore.current == "Data Not Found" && data.livescore.teamone == "Data Not Found"){
+                    //Toss
+                    matchStatus2.innerText = 'TOSS'
+                    upcomigMatchInfo2.style.display = "block";
+                    UpcomingTitle2.innerText = data.livescore.title
+                    UpcomingUpdate2 .innerText = data.livescore.update.toUpperCase()
+                }
+                else{
+                    //Match started 
+                    liveMatchInfo2.style.display = "block";
+                    matchStatus2.innerText = 'LIVE'
+                    title2.innerText = data.livescore.title
+                    update2.innerText =  data.livescore.update.toUpperCase();
+                    battingTeam2.innerText = data.livescore.current.slice(0, 3)
+                    currentScore2.innerText = data.livescore.current.substring(5)
+                    if(data.livescore.recentballs == "Data Not Found") {
+                        lastRun2.innerText = data.livescore.lastwicket[data.livescore.lastwicket.length-1]
+                        overRun2.innerText = data.livescore.lastwicket
+                        lastWicket2.innerText = 'No Wickets'
+                    }
+                    else{
+                        if(String (data.livescore.recentballs[data.livescore.recentballs.length-1]) == 'd' )
+                        {
+                            lastRun2.innerText = 'Wd' //i am in
+                        }
+                        else{
+                            lastRun2.innerText = data.livescore.recentballs[data.livescore.recentballs.length-1]
+                        }
+                        overRun2.innerText = data.livescore.recentballs.substring(5)
+                        lastWicket2.innerText = data.livescore.lastwicket
+                    }
+                    crr2.innerText = data.livescore.runrate.substring(5)
+                    if(over == 20 || over == 50 ) {
+                        matchStatus2.innerText = "BREAK"; matchStatus2.style.animation = "blink 3s infinite";
+                       
+                    }
+                    else {
+                        matchStatus2.innerText = "LIVE"; matchStatus2.style.animation = "blink 3s infinite";
+
+                    } 
+                
+                    //p1
+                    if(data.livescore.batsman == "Data Not Found") p12.innerText ="-"
+                    else
+                    p12.innerText = data.livescore.batsman
+                    if(data.livescore.batsmanrun == "Data Not Found") p1Run2.innerText ="-"
+                    else
+                    p1Run2.innerText = data.livescore.batsmanrun
+                    if(data.livescore.ballsfaced == "Data Not Found") p1Ball2.innerText ="-"
+                    else
+                    p1Ball2.innerText = data.livescore.ballsfaced.replace(/[()]/g, "")
+                    if(data.livescore.fours == "Data Not Found") p14s2.innerText ="-"
+                    else
+                    p14s2.innerText = data.livescore.fours
+                    if(data.livescore.sixes == "Data Not Found") p16s2.innerText ="-"
+                    else
+                    p16s2.innerText = data.livescore.sixes
+                    if(data.livescore.sr == "Data Not Found") p1strikeRate2.innerText ="-"
+                    else
+                    p1strikeRate2.innerText = data.livescore.sr
+
+
+                    //p2
+                    if(data.livescore.batsman == "Data Not Found") p22.innerText ="-"
+                    else
+                    p22.innerText = data.livescore.batsmantwo
+
+                    if(data.livescore.batsmantworun == "Data Not Found") p2Run2.innerText ="-"
+                    else
+                    p2Run2.innerText = data.livescore.batsmantworun
+
+                    if(data.livescore.batsmantwoballsfaced == "Data Not Found") p2Ball2.innerText ="-"
+                    else
+                    p2Ball2.innerText = data.livescore.batsmantwoballsfaced.replace(/[()]/g, "")
+
+                    if(data.livescore.batsmantwofours == "Data Not Found") p24s2.innerText ="-"
+                    else
+                    p24s2.innerText = data.livescore.batsmantwofours
+
+                    if(data.livescore.batsmantwosixes == "Data Not Found") p26s2.innerText ="-"
+                    else
+                    p26s2.innerText = data.livescore.batsmantwosixes
+
+                    if(data.livescore.batsmantwosr == "Data Not Found") p2strikeRate2.innerText ="-"
+                    else
+                    p2strikeRate2.innerText = data.livescore.batsmantwosr
+
+        
+                    //bp1
+                    if(data.livescore.bowler== "Data Not Found") {
+                        bp12.innerText = '-' 
+                        bp1o2.innerText = '-'
+                        bp1r2.innerText = '-'
+                        bp1w2.innerText = '-'
+                        bp1m2.innerText = '-'
+                    }
+                    else{
+                        bp12.innerText = data.livescore.bowler
+                        bp1o2.innerText = data.livescore.bowlerover
+                        bp1r2.innerText = data.livescore.bowlerruns
+                        bp1w2.innerText = data.livescore.bowlerwickets
+                        bp1m2.innerText = data.livescore.bowlermaiden
+
+                    }
+                    //bp2
+                    if( data.livescore.bowlertwo == "Data Not Found"){
+                        bp22.innerText ='-'
+                        bp2o2.innerText ='-'
+                        bp2r2.innerText = '-'
+                        bp2w2.innerText = '-'
+                        bp2m2.innerText = '-'
+
+                    }
+                    else{
+                        bp22.innerText = data.livescore.bowlertwo
+                        bp2o2.innerText = data.livescore.bowletworover
+                        bp2r2.innerText = data.livescore.bowlertworuns
+                        bp2w2.innerText = data.livescore.bowlertwowickets
+                        bp2m2.innerText = data.livescore.bowlertwomaiden
+
+                    }
+
+                    
+                if(data.livescore.partnership == 'Data Not Found') partnership2.innerText = '  '
+                else
+                partnership2.innerText = data.livescore.partnership
+
+                if(data.livescore.commentary=='Data Not Found') commentaryText2.innerText = '...'
+                else commentaryText2.innerText = data.livescore.commentary[0]
+                    
+                }
+         }
+            else if(Value01 == 2){
+                // over
+                overMatchInfo2.style.display = "block";
+                matchStatus2.innerHTML = "COMPLETED"
+                OMTitle32.innerText = data.livescore.title
+                teamOne2.innerText = data.livescore.teamone
+                teamTwo2.innerText = data.livescore.teamtwo
+                OMUpdate32.innerText = data.livescore.update.toUpperCase();
+    
+            }
+            else{
+                // some thing went wrong
+                if(Value01 == 99) console.log("Error From server")
+                window.location.href = '../html/error.html';
+            }
+    }
+    
+    // box 3
+    else if(currentValue == 3){
+         // DOM ELEMENTS FOR BOX 3 :
+        const matchStatus3 = document.getElementById('matchStatus3');
+        //UPCOMING 3
+        const upcomigMatchInfo3 = document.getElementById('upcomigMatchInfo3');
+        const UpcomingTitle3 = document.getElementById('UpcomingTitle3');
+        const UpcomingUpdate3 = document.getElementById('UpcomingUpdate3');
+
+        //LIVE 3
+        const liveMatchInfo3 = document.getElementById('liveMatchInfo3');
+        const title3 = document.getElementById('title3');
+        const update3 = document.getElementById('update3');
+        const battingTeam3 = document.getElementById('battingTeam3');
+        const currentScore3 = document.getElementById('currentScore3');
+        const lastRun3 = document.getElementById('lastRun3');
+        const overRun3 = document.getElementById('overRun3');
+        const crr3 = document.getElementById('crr3');
+        const p13 = document.getElementById('p13');
+        const p1Run3 = document.getElementById('p1Run3');
+        const p1Ball3 = document.getElementById('p1Ball3');
+        const p13s3 = document.getElementById('p13s3');
+        const p16s3 = document.getElementById('p16s3');
+        const p1strikeRate3 = document.getElementById('p1strikeRate3');
+        const p23 = document.getElementById('p23');
+        const p2Run3 = document.getElementById('p2Run3');
+        const p2Ball3 = document.getElementById('p2Ball3');
+        const p23s3 = document.getElementById('p23s3');
+        const p26s3 = document.getElementById('p26s3');
+        const p2strikeRate3 = document.getElementById('p2strikeRate3');
+        const bp13 = document.getElementById('bp13');
+        const bp1o3 = document.getElementById('bp1o3');
+        const bp1r3 = document.getElementById('bp1r3');
+        const bp1w3 = document.getElementById('bp1w3');
+        const bp1m3 = document.getElementById('bp1m3');
+        const bp23 = document.getElementById('bp23');
+        const bp2o3 = document.getElementById('bp2o3');
+        const bp2r3 = document.getElementById('bp2r3');
+        const bp2w3 = document.getElementById('bp2w3');
+        const bp2m3 = document.getElementById('bp2m3');
+        const partnership3 = document.getElementById('partnership3');
+        const lastWicket3 = document.getElementById('lastWicket3');
+        const commentaryText3 = document.getElementById('commentary-text3');
+
+        //Completed 3
+        const overMatchInfo3 = document.getElementById('overMatchInfo3');
+        const OMTitle33 = document.getElementById('OMTitle33');
+        const teamOne3 = document.getElementById('team-one3');
+        const teamTwo3 = document.getElementById('team-two3');
+        const OMUpdate33 = document.getElementById('OMUpdate33');
+
+
+        //TEAM-logo DOM element 3
+        const teamLogo_box3 = document.getElementById('teamLogo_box3')
+        const teamOne_ImageB3 = document.getElementById('teamOne_ImageB3') 
+        const teamTwo_ImageB3 = document.getElementById('teamTwo_ImageB3')
+
+        // console.log(team1Abbreviation)
+        // console.log(team2Abbreviation)
+        // console.log(data.livescore.title)   
+
+       
+        if(isIPL){
+                teamLogo_box3.style.display ="block";
+                teamOne_ImageB3.src = `../img/ipl_logos/${team1Abbreviation}`
+                teamTwo_ImageB3.src = `../img/ipl_logos/${team2Abbreviation}`
+                
+            }
+
+            if(Value01 == 0 || Value01 == 3){
+                //coming up
+                upcomigMatchInfo3.style.display = "block";
+                if(Value01 == 3) matchStatus3.innerText = 'RAIN'
+                else  matchStatus3.innerText = 'COMING UP'
+                UpcomingTitle3.innerText = data.livescore.title
+                UpcomingUpdate3.innerText = data.livescore.update.toUpperCase()
+
+            }
+            else if(Value01 == 1){
+                // live
+                if(data.livescore.current == "Data Not Found" && data.livescore.teamone == "Data Not Found"){
+                     //Toss
+                    matchStatus3.innerText = 'TOSS'
+                    upcomigMatchInfo3.style.display = "block";
+                    UpcomingTitle3.innerText = data.livescore.title
+                    UpcomingUpdate3.innerText = data.livescore.update.toUpperCase()
+                }
+                else{
+                    //Match Started
+                    liveMatchInfo3.style.display = "block";
+                    title3.innerText = data.livescore.title
+                    update3.innerText =  data.livescore.update.toUpperCase();
+                    battingTeam3.innerText = data.livescore.current.slice(0, 3)
+                    currentScore3.innerText = data.livescore.current.substring(5)
+                    if(data.livescore.recentballs == "Data Not Found") {
+                        lastRun3.innerText = data.livescore.lastwicket[data.livescore.lastwicket.length-1]
+                        overRun3.innerText = data.livescore.lastwicket
+                        lastWicket3.innerText = 'No Wickets'
+                    }
+                    else{
+                        if(String (data.livescore.recentballs[data.livescore.recentballs.length-1]) == 'd' )
+                        {
+                            lastRun3.innerText = 'Wd' //i am in
+                        }
+                        else{
+                            lastRun3.innerText = data.livescore.recentballs[data.livescore.recentballs.length-1]
+                        }
+                        overRun3.innerText = data.livescore.recentballs.substring(5)
+                        lastWicket3.innerText = data.livescore.lastwicket
+                    }
+                    crr3.innerText = data.livescore.runrate.substring(5)
+                    if(over == 20 || over == 50 ) {
+                        matchStatus3.innerText = "BREAK"; matchStatus3.style.animation = "blink 3s infinite";
+                       
+                    }
+                    else {
+                        matchStatus3.innerText = "LIVE"; matchStatus3.style.animation = "blink 3s infinite";
+
+                    } 
+                
+                    //p1
+                    if(data.livescore.batsman == "Data Not Found") p13.innerText ="-"
+                    else
+                    p13.innerText = data.livescore.batsman
+                    if(data.livescore.batsmanrun == "Data Not Found") p1Run3.innerText ="-"
+                    else
+                    p1Run3.innerText = data.livescore.batsmanrun
+                    if(data.livescore.ballsfaced == "Data Not Found") p1Ball3.innerText ="-"
+                    else
+                    p1Ball3.innerText = data.livescore.ballsfaced.replace(/[()]/g, "")
+                    if(data.livescore.fours == "Data Not Found") p14s3.innerText ="-"
+                    else
+                    p14s3.innerText = data.livescore.fours
+                    if(data.livescore.sixes == "Data Not Found") p16s3.innerText ="-"
+                    else
+                    p16s3.innerText = data.livescore.sixes
+                    if(data.livescore.sr == "Data Not Found") p1strikeRate3.innerText ="-"
+                    else
+                    p1strikeRate3.innerText = data.livescore.sr
+
+
+                    //p2
+                    if(data.livescore.batsman == "Data Not Found") p23.innerText ="-"
+                    else
+                    p23.innerText = data.livescore.batsmantwo
+
+                    if(data.livescore.batsmantworun == "Data Not Found") p2Run3.innerText ="-"
+                    else
+                    p2Run3.innerText = data.livescore.batsmantworun
+
+                    if(data.livescore.batsmantwoballsfaced == "Data Not Found") p2Ball3.innerText ="-"
+                    else
+                    p2Ball3.innerText = data.livescore.batsmantwoballsfaced.replace(/[()]/g, "")
+
+                    if(data.livescore.batsmantwofours == "Data Not Found") p24s3.innerText ="-"
+                    else
+                    p24s3.innerText = data.livescore.batsmantwofours
+
+                    if(data.livescore.batsmantwosixes == "Data Not Found") p26s3.innerText ="-"
+                    else
+                    p26s3.innerText = data.livescore.batsmantwosixes
+
+                    if(data.livescore.batsmantwosr == "Data Not Found") p2strikeRate3.innerText ="-"
+                    else
+                    p2strikeRate3.innerText = data.livescore.batsmantwosr
+
+        
+                    //bp1
+                    if(data.livescore.bowler== "Data Not Found") {
+                        bp13.innerText = '-' 
+                        bp1o3.innerText = '-'
+                        bp1r3.innerText = '-'
+                        bp1w3.innerText = '-'
+                        bp1m3.innerText = '-'
+                    }
+                    else{
+                        bp13.innerText = data.livescore.bowler
+                        bp1o3.innerText = data.livescore.bowlerover
+                        bp1r3.innerText = data.livescore.bowlerruns
+                        bp1w3.innerText = data.livescore.bowlerwickets
+                        bp1m3.innerText = data.livescore.bowlermaiden
+
+                    }
+                    //bp2
+                    if( data.livescore.bowlertwo == "Data Not Found"){
+                        bp23.innerText ='-'
+                        bp2o3.innerText ='-'
+                        bp2r3.innerText = '-'
+                        bp2w3.innerText = '-'
+                        bp2m3.innerText = '-'
+
+                    }
+                    else{
+                        bp23.innerText = data.livescore.bowlertwo
+                        bp2o3.innerText = data.livescore.bowletworover
+                        bp2r3.innerText = data.livescore.bowlertworuns
+                        bp2w3.innerText = data.livescore.bowlertwowickets
+                        bp2m3.innerText = data.livescore.bowlertwomaiden
+
+                    }
+
+                    
+                if(data.livescore.partnership == 'Data Not Found') partnership3.innerText = '  '
+                else
+                partnership3.innerText = data.livescore.partnership
+
+                if(data.livescore.commentary=='Data Not Found') commentaryText3.innerText = '...'
+                else commentaryText3.innerText = data.livescore.commentary[0]
+
+                }
+                
+            }
+            else if(Value01 == 2){
+                // over
+                overMatchInfo3.style.display = "block";
+                matchStatus3.innerHTML = "COMPLETED"
+                OMTitle33.innerText = data.livescore.title
+                teamOne3.innerText = data.livescore.teamone
+                teamTwo3.innerText = data.livescore.teamtwo
+                OMUpdate33.innerText = data.livescore.update.toUpperCase();
+                
+            }
+            else{
+                // some thing went wrong
+                if(Value01 == 99) console.log("Error From server")
+                window.location.href = '../html/error.html';
+            }
+    }
+}
+
+};
+
+
+
+
+function refreshThis(matchID01,baseAPI,currentValue01){                                   //work on this 
+var intervalId = window.setInterval(function(){
+getMatchInfo(matchID01,baseAPI,currentValue01)
+.then(result =>{
+    updateDOM(result.data,currentValue01,result.value)
+    if(result.value == 2 || result.value == 3){
+        clearInterval(intervalId) 
+    }
+} )
+}, 8000);  // 8 sec
+}
+
+
+                    
+function main(currentValue) {
+if (currentValue===0){
+    getMatchInfo(m0ID,baseAPI,0)
+    .then(result => {
+        updateDOM(result.data,0,result.value); 
+        refreshThis(m0ID,baseAPI,0)
+      })
+      .catch(error => {
+        window.location.href = '../html/error.html';
+      });
+}
+
+else if(currentValue===1){
+    getMatchInfo(m1ID,baseAPI,1)
+    .then(result => { 
+        updateDOM(result.data,1,result.value);
+        refreshThis(m1ID,baseAPI,1)
+      })
+      .catch(error => {
+        window.location.href = '../html/error.html';
+      });
+}
+
+else if(currentValue===2){
+    getMatchInfo(m2ID,baseAPI,2)
+    .then(result => {
+        updateDOM(result.data,2,result.value);
+        refreshThis(m2ID,baseAPI,2)
+    })
+      .catch(error => {
+        window.location.href = '../html/error.html';
+      });
+}
+else if(currentValue===3){
+    getMatchInfo(m3ID,baseAPI,3)
+    .then(result => {
+        updateDOM(result.data,3,result.value);
+        refreshThis(m3ID,baseAPI,3)
+    })
+      .catch(error => {
+        window.location.href = '../html/error.html';
+      });
+}
+
+else{
+    console.log("OUT OF RANGE")
+}
+}
+
+window.onload =  async function() {
+slideTo(1);
+const match_ID_JSON = await getMatchID(server);
+if(match_ID_JSON){
+    m0ID = match_ID_JSON[0]
+    m1ID = match_ID_JSON[1]
+    m2ID = match_ID_JSON[2]
+    m3ID = match_ID_JSON[3]
+    main(1);  
+}
+else{
+    window.location.href = '../html/error.html';
+}
+
+
+};
+
+
+
+
+setInterval(function() {
+location.reload();
+console.log("------------------------------------PAGE RELOAD------------------------------------------")
+},240000 );  // page reload after 4 Minutes

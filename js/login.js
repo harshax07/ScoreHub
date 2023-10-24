@@ -1,1 +1,96 @@
-var _0x572baf=_0x1a32;(function(_0x58b4ce,_0x568fa5){var _0x4280f7=_0x1a32,_0x53b4ca=_0x58b4ce();while(!![]){try{var _0x119901=parseInt(_0x4280f7(0x76))/0x1+-parseInt(_0x4280f7(0x8e))/0x2+parseInt(_0x4280f7(0x81))/0x3+-parseInt(_0x4280f7(0x7b))/0x4*(-parseInt(_0x4280f7(0x73))/0x5)+parseInt(_0x4280f7(0x7d))/0x6*(-parseInt(_0x4280f7(0x93))/0x7)+-parseInt(_0x4280f7(0x74))/0x8*(-parseInt(_0x4280f7(0x89))/0x9)+-parseInt(_0x4280f7(0x83))/0xa;if(_0x119901===_0x568fa5)break;else _0x53b4ca['push'](_0x53b4ca['shift']());}catch(_0xabc878){_0x53b4ca['push'](_0x53b4ca['shift']());}}}(_0x21fa,0x22ddd));var loginValue;function _0x1a32(_0xddefb5,_0x1d0580){var _0x21fa0e=_0x21fa();return _0x1a32=function(_0x1a3273,_0x56883f){_0x1a3273=_0x1a3273-0x6f;var _0x23e78b=_0x21fa0e[_0x1a3273];return _0x23e78b;},_0x1a32(_0xddefb5,_0x1d0580);}const loginButton=document['getElementById'](_0x572baf(0x88)),registerButton=document['getElementById'](_0x572baf(0x8d)),regMessageElement=document[_0x572baf(0x71)](_0x572baf(0x77)),loginMessageElement=document[_0x572baf(0x71)](_0x572baf(0x91));registerButton[_0x572baf(0x7a)]('click',()=>store()),loginButton[_0x572baf(0x7a)](_0x572baf(0x8b),function(_0x456158){var _0x1a75eb=_0x572baf;_0x456158[_0x1a75eb(0x92)](),check();});function store(){var _0x1de27=_0x572baf,_0x454413=document[_0x1de27(0x71)](_0x1de27(0x79)),_0x355342=document[_0x1de27(0x71)]('pw'),_0x2a8072=/[a-z]/g,_0x3d63d2=/[A-Z]/g,_0x23b041=/[0-9]/g;if(_0x454413[_0x1de27(0x8c)][_0x1de27(0x90)]==0x0){}else{if(_0x355342[_0x1de27(0x8c)][_0x1de27(0x90)]==0x0){}else{if(_0x454413[_0x1de27(0x8c)][_0x1de27(0x90)]==0x0&&_0x355342[_0x1de27(0x8c)]['length']==0x0){}else{if(_0x355342[_0x1de27(0x8c)][_0x1de27(0x90)]<0x8)document['getElementById']('long')[_0x1de27(0x7f)][_0x1de27(0x82)]=_0x1de27(0x87);else{if(!_0x355342[_0x1de27(0x8c)][_0x1de27(0x72)](_0x23b041))document[_0x1de27(0x71)]('number')[_0x1de27(0x7f)][_0x1de27(0x82)]='red';else{if(!_0x355342[_0x1de27(0x8c)]['match'](_0x3d63d2))document[_0x1de27(0x71)]('alphU')['style'][_0x1de27(0x82)]=_0x1de27(0x87);else!_0x355342[_0x1de27(0x8c)][_0x1de27(0x72)](_0x2a8072)?document[_0x1de27(0x71)]('alphU')[_0x1de27(0x7f)][_0x1de27(0x82)]=_0x1de27(0x87):(localStorage[_0x1de27(0x8a)]('name',_0x454413['value']),localStorage['setItem']('pw',_0x355342[_0x1de27(0x8c)]),alert(_0x1de27(0x7e)));}}}}}}function check(){var _0x15b6b8=_0x572baf,_0x13d9bb=localStorage[_0x15b6b8(0x6f)](_0x15b6b8(0x79)),_0x147fd7=localStorage[_0x15b6b8(0x6f)]('pw'),_0x23b222=document[_0x15b6b8(0x71)](_0x15b6b8(0x85)),_0x3d3d01=document[_0x15b6b8(0x71)](_0x15b6b8(0x75)),_0x893d42=document[_0x15b6b8(0x71)](_0x15b6b8(0x70));_0x23b222[_0x15b6b8(0x8c)]==_0x13d9bb&&_0x3d3d01[_0x15b6b8(0x8c)]==_0x147fd7?(loginMessageElement['innerHTML']='<p\x20style=\x27color:green;\x27>Login\x20Successful\x20✔\x20</p>',loginValue=!![]):(loginMessageElement[_0x15b6b8(0x84)]=_0x15b6b8(0x78),loginValue=![]),button(loginValue);}function _0x21fa(){var _0x17628e=['userName','location','red','login_btn','1080306wvvpwU','setItem','click','value','rgstr_btn','188800SWQOcb','display','length','login-message','preventDefault','620837OOJGjO','authButton','getItem','rememberMe','getElementById','match','1017965XVseeh','16IxgLOL','userPw','275688NumqEZ','register-message','<p\x20style=\x27color:red;\x27\x20>Error\x20:\x20Invalid\x20username\x20or\x20password\x20🗴\x20</p>','name','addEventListener','4ugzNQi','href','6oMqlTW','Account\x20Successfully\x20Created','style','../html/option.html','842367rXDLqV','backgroundColor','6742340TlynGw','innerHTML'];_0x21fa=function(){return _0x17628e;};return _0x21fa();}const authButton=document[_0x572baf(0x71)](_0x572baf(0x94));function button(_0x4535dc){var _0x3c281a=_0x572baf;_0x4535dc&&(authButton[_0x3c281a(0x7f)][_0x3c281a(0x8f)]='block',authButton[_0x3c281a(0x7a)](_0x3c281a(0x8b),function(_0x2bc482){var _0x30f774=_0x3c281a;_0x2bc482['preventDefault'](),window[_0x30f774(0x86)][_0x30f774(0x7c)]=_0x30f774(0x80);}));}
+var loginValue;
+
+const loginButton = document.getElementById('login_btn')
+const registerButton = document.getElementById('rgstr_btn')
+const regMessageElement = document.getElementById('register-message')
+const loginMessageElement = document.getElementById('login-message')
+
+
+registerButton.addEventListener("click",()=> store())
+
+loginButton.addEventListener("click",function(event){
+    event.preventDefault();
+    check()
+})
+
+
+
+
+
+function store(){
+    
+    var name = document.getElementById('name');
+    var pw = document.getElementById('pw');
+    var lowerCaseLetters = /[a-z]/g;
+    var upperCaseLetters = /[A-Z]/g;
+    var numbers = /[0-9]/g;
+
+    if(name.value.length == 0){
+        
+    }else if(pw.value.length == 0){
+        
+    }else if(name.value.length == 0 && pw.value.length == 0){
+       
+    }
+    else if(pw.value.length < 8){
+        document.getElementById('long').style.backgroundColor = "red";
+    }else if (!pw.value.match(numbers)){
+        // regMessageElement.innerHTML = "<p>Password Must Contain a Number</p>"
+        document.getElementById('number').style.backgroundColor = "red";     
+
+    }else if(!pw.value.match(upperCaseLetters)){
+        // alert('please add 1 uppercase letter');
+        document.getElementById('alphU').style.backgroundColor = "red";  
+
+    }else if(!pw.value.match(lowerCaseLetters)){
+        // alert('please add 1 lovercase letter');
+        document.getElementById('alphU').style.backgroundColor = "red"; 
+    }else{
+        localStorage.setItem('name', name.value);
+        localStorage.setItem('pw', pw.value);
+        alert('Account Successfully Created');
+       
+
+    }
+}
+
+function check(){
+  
+    var storedName = localStorage.getItem('name');
+    var storedPw = localStorage.getItem('pw');
+
+    var userName = document.getElementById('userName');
+    var userPw = document.getElementById('userPw');
+    var userRemember = document.getElementById("rememberMe");
+
+    if(userName.value == storedName && userPw.value == storedPw){
+        // alert('You are logged in.');
+        
+        loginMessageElement.innerHTML = "<p style='color:green;'>Login Successful ✔ </p>"
+        loginValue = true
+    }else{
+        // alert('Error on login');
+        loginMessageElement.innerHTML = "<p style='color:red;' >Error : Invalid username or password 🗴 </p>"
+        loginValue = false
+    }
+    // console.log(loginValue)
+    button(loginValue)
+
+}
+
+
+
+const authButton = document.getElementById('authButton');
+
+function button(loginValue){
+
+    if(loginValue){
+        authButton.style.display = "block";
+        authButton.addEventListener("click",function(event){
+            event.preventDefault();
+            window.location.href = "../html/option.html"
+        })
+    }
+
+}
+
