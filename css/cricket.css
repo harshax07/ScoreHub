@@ -1,0 +1,652 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    font-family: 'Muli', sans-serif;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow-x: hidden;
+   
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+header {
+    background-color: #000000;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+button {
+    background-color: #B89855;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px 10px;
+}
+
+p {
+    margin-bottom: 10px;
+	font-size: 27px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+	position: fixed;
+}
+
+footer p {
+    font-size: 0.6rem;
+    margin: 0;
+}
+
+.box {
+    border: 2px solid #cfac60;
+    padding: 15px;
+    box-shadow: 0 0 10px #daa520;
+	align-items: center;
+	text-align: center;
+}
+
+
+.slider-wrapper {
+    display: flex;
+    width: 400%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slider-slide {
+    flex: 1;
+    width: 25%;
+    padding: 1rem;
+    box-sizing: border-box;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.slider-slide.active {
+    opacity: 1;
+}
+
+.slider-controls {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.slider-container {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.slider-control {
+    align-items: center;
+    background-color: #B89855;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    padding: 0.25rem 0.5rem;
+    margin: 0 0.5rem;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease-in-out;
+    bottom: 0;
+    left: 50%;
+}
+
+.slider-control:hover {
+    background-color: rgb(142, 142, 142);
+}
+
+.fa-chevron-left,
+.fa-chevron-right {
+    font-size: inherit;
+    transition: transform 0.2s ease-in-out;
+}
+
+.slider-control--left:hover .fa-chevron-left,
+.slider-control--right:hover .fa-chevron-right {
+    transform: translateX(-3px);
+}
+
+
+.team-left {
+    font-size: 1rem;
+    float: left;
+    font-weight: bold;
+    text-align: left;
+    padding-right: 20px;
+}
+
+.update {
+    font-weight: bold;
+    text-align: right;
+    padding-left: 20px;
+    font-size: 0.8rem;
+    float: right;
+    animation: blink01 3s infinite;
+}
+
+.battingTeam {
+    padding-top: 1%;
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.5rem;
+}
+
+.batting-stats h2,
+.bowling-stats h2 {
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 8px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+th {
+    background-color: #B89855;
+    font-weight: bold;
+}
+
+.batting-stats,
+.bowling-stats {
+    width: 45%;
+}
+
+.bowling-stats {
+    margin-left: 20px;
+}
+
+.team-left p {
+    display: inline-block;
+}
+
+.lastRun {
+    font-size: 70px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.info-box {
+    font-weight: bold;
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+.info-box p{
+    font-size: 0.7rem;
+}
+
+/* .commentary-box {
+    padding: auto;
+} */
+
+.commentary-box {
+    font-size: 0.4rem; /* Adjust the desired font size for the commentary box */
+    text-align: center; /* Center align the text within the commentary box */
+    padding: 10px; /* Add padding for spacing */
+}
+
+.commentary-box p{
+    font-size: 0.8rem;
+}
+
+/* Animation styles */
+@keyframes blink01 {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.team-12 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+
+.battingTeam{
+    font-size: 40px;
+}
+
+
+
+.outBorder{
+    border: 1px solid  #B89855;margin-top: 20px;margin-bottom: 20px;
+}
+
+
+
+
+.liveInfo {
+    font-size: 0.7rem; 
+    width: 100%;
+    margin: 0 auto;
+    max-width: 100%;
+    display: flex; justify-content: space-between;
+}
+
+
+.liveInfo table {
+    font-size: 0.7rem;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.liveInfo td {
+    font-size: 0.7rem; 
+}
+
+.liveInfo img {
+    max-width: 50px; 
+}
+
+
+.liveInfo th, .liveInfo td {
+    padding: 4px;
+    align-items: center;
+}
+
+
+.teamImage {
+	width: 50px; 
+	border-radius: 50%;
+    border: 4px solid #B89855 ; 
+}
+
+.teamImageDiv{
+    margin-left: 1% ; display: none;
+
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    .slider-slide {
+        padding: 0.5rem;
+    }
+
+    .commentary-box img {
+        height: 5%;
+        width: 5%;
+    }
+
+    .teamImageDiv{
+        margin-left: 3% ; display: none;
+    
+    }
+}
+
+@media (max-width: 480px) {
+
+    .teamImageDiv{
+        margin-left: 3% ; display: none;
+    
+    }
+
+    .liveInfo {
+        flex-direction: column;  
+    }
+    .batting-stats{
+        margin-left: 7%;
+    }
+    .bowling-stats{
+        margin-left: 6%;
+    }
+
+    .batting-stats img,
+    .bowling-stats img {
+        max-width: 50px;
+        width: 30px;
+        float: left; 
+        display: none;
+        
+    }
+    .bowling-stats table {
+        margin-top: 200px; 
+    }
+
+
+    .batting-stats thead th {
+        font-size: 14px;
+    }
+
+    .batting-stats table{
+        font-size: 16px; 
+        width: 150%; 
+        margin: 0 auto; 
+    }
+    .bowling-stats table {
+        font-size: 16px; 
+        width: 100%; 
+        margin: 0 auto; 
+        margin-top: 20px;
+    }
+    
+
+   
+    .bowling-stats th {
+        font-size: 14px;
+    }
+
+    .batting-stats tr,
+    .bowling-stats tr {
+        font-size: 100px; 
+    }
+
+    .batting-stats td,
+    .bowling-stats td {
+        font-size: 14px;
+    }
+
+
+    .batting-stats th {
+        min-width: 36px; 
+    }
+
+	
+	.logo img {
+        max-width: 80%;
+    }
+	.logo {
+        max-width: 480px; 
+    }
+	body {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 24px; 
+    }
+
+    button {
+        font-size: 14px; 
+        padding: 8px 8px; 
+    }
+
+    p {
+        font-size: 19px;
+        line-height: 1.2; 
+    }
+
+
+
+    .slider-slide {
+        padding: 0.25rem; 
+    }
+
+    footer p {
+        font-size: 0.5rem;
+    }
+	.logo {
+        margin-bottom: 10px; 
+    }
+
+    .box {
+        margin: 10px auto; 
+        max-width: 90%;
+		height: 650px;
+		display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+		
+    }
+
+	.slider-controls {
+        font-size: 17px; 
+    }
+
+    .slider-control {
+        font-size: 0.7rem; 
+        padding: 0.1rem 0.3rem; 
+    }
+	
+	.OMTitle,.UpcomingTitle,.liveMatchInfo{
+		margin-top: 240px;
+	}
+
+    .liveMatchInfo {
+        width: 100%;
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    .card-header p{
+        font-size: 0.5rem;
+    }
+
+    
+
+    .commentary-box img {
+        height: 6%; 
+        width: 6%;
+    }
+
+    .commentary-box p {
+        font-size: 13px; 
+    }
+
+
+    .currentScore {
+        font-size: 14px; 
+    }
+
+    .lastRun {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .overRun,.RR,.CRR{
+        font-size: 0.5rem;
+    }
+    
+    #arrow{
+        font-size: 0.3rem;
+    }
+
+    .liveInfo table {
+        font-size: 0.1rem; 
+    }
+
+    .info-box{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .info-box p {
+        display: inline-block;
+        margin: 0;
+        padding: 5px;
+        font-size: 0.6rem; 
+    }
+    
+    .matchStatus{
+        font-size: 0.4rem;
+    }
+
+    .battingTeam{
+        font-size: 1rem;
+    }
+
+    .outBorder {
+        border: none; 
+        border-top: 1px solid #B89855; 
+        height: 1px; 
+        margin: 5px 0; 
+    }
+    .gColor_M{
+        color: #B89855;
+        display: inline-block;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+    .gColor_W{
+        color: #B89855;
+        display: inline-block; 
+        font-size: 1rem;
+        font-weight: bold;
+    }
+	
+}
+
+.liveMatchInfo {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 100%;
+    
+}
+
+.slider-slide .box {
+    position: relative; 
+}
+
+.slider-slide .box .matchStatus {
+    position: absolute;
+    top: 0;
+    right: 0;
+	padding-top: 10px;
+	padding-right: 10px;
+	color: #B89855;
+}
+
+.box .OMUpdate {
+    text-align: center;
+}
+
+
+.UpcomingUpdate,.update,.OMUpdate{
+	color: #B89855;
+}
+
+
+.liveMatchInfo .lastRun {
+    text-align: center;
+}
+
+
+.runContainer{
+    font-size: 0.8rem;
+}
+
+
+.gColor_M{
+    color: #B89855;
+    display: inline-block;
+    font-weight: bold;
+}
+.gColor_W{
+    color: #B89855;
+    display: inline-block; padding-left: 57%;
+    font-weight: bold;
+}
+
+.wColor{
+    color: white;
+}
+
+
+.loader {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 2s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

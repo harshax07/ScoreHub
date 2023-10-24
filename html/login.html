@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="../css/login.css">
+    <title>ScoreHub</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Login / Sign Up to access <span style="color: #B89855;">Score Hub</span></h1>
+            <center> <button id="authButton" style="display: none;">Get Score</button></center>
+        </nav>
+    </header>
+    <main>
+        <div class="login-container">
+            <div class="login">
+              <h2><center>Login</center></h2>
+              <form>
+                <label for="userName">Email</label>
+                    <input type="email" id="userName" placeholder="Username" required>
+                    <label for="userPw">Password</label>
+                    <input type="password" id= "userPw" placeholder="Password" required>
+                    <div id="login-message"></div>
+                    <input id= "login_btn" type="submit" value="Login">
+              </form>
+            </div>
+            
+            <div class="login">
+                <h2> <center>Register </center> </h2>
+                <form>
+                  <label for="name">Email</label>
+                      <input type="email" id="name" placeholder="Username" required
+                      <label for="pw">Password</label>
+                      <input type="password"
+                             id= "pw"
+                             placeholder="Password" required>
+                      <ul class="helper-text">
+                          <li class="length" id="long">Must be at least 8 characters long.</li>
+                          <li class="lowercase" id="alphL">Must contain a lowercase letter.</li>
+                          <li class="uppercase" id="alphU">Must contain an uppercase letter.</li>
+                          <li class="special" id="number">Must contain a number or special character.</li>
+                      </ul>
+                      <input id="rgstr_btn" type="submit" value="Register">
+                </form>
+              </div>
+              
+          </div>
+    </main>
+    <script src="../js/login.js"></script>
+</body>
+</html>

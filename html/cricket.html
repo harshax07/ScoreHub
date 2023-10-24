@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ScoreHub</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="../css/cricket.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+	<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Staatliches&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,700;1,700&family=Rubik+Mono+One&family=Staatliches&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+	<header>
+        <nav>
+             <a href="../index.html" class="logo"><img src="../img/final.png" alt="Logo"></a>
+        </nav>
+	</header>
+    <div class="slider-controls">
+        <button class="slider-control slider-control--left"><i class="fas fa-chevron-left"></i></button>
+        <button class="slider-control slider-control--right"><i class="fas fa-chevron-right"></i></button>
+    </div>
+	<main>
+		<div class="slider-container">
+            <div class="slider-wrapper">
+
+			<!-- Box0 -->
+			  <div class="slider-slide">
+				<div class="box">
+                    <div id="teamLogo_box0" class="teamImageDiv" >
+                        <img src=""class="teamImage" id="teamOne_ImageB0">
+                        <span>V/S</span>
+                        <img src=""class="teamImage" id="teamTwo_ImageB0">
+                    </div>
+					<span class="matchStatus" id="matchStatus0">  </span>
+
+                    <!--  UPCOMING 00 -->
+                    <div id="upcomigMatchInfo0" class="UpcomingTitle" style="display: none;">
+                        <p  id="UpcomingTitle0" > </p>
+                        <span style="animation: blink01 3s infinite;">
+                            <p  class="UpcomingUpdate" id="UpcomingUpdate0">  </p>
+                        </span>
+                    </div>
+
+                    <!-- LIVE 00 -->
+                    <div id="liveMatchInfo0" style="display: none;" class="liveMatchInfo">
+                        <div class="card-header">
+                            <p class="team-left" id="title0"> </p>
+                            <p class="update" id="update0"> </p>
+                        </div>                        
+
+                        <div class="card-body">
+                            <div class="battingTeam">
+                                <span class="battingName" id="battingTeam0"> </span> 
+                                <span class="currentScore" id="currentScore0">  </span>
+                            </div>
+
+                            <div class="lastRun" id="lastRun0"  style="display: inline-block; margin-bottom: 5px;"> </div>
+
+                            <div class="runContainer">
+                                <span class="overRun" id="overRun0">  </span>
+                                <div class="RR" id="RR"> 
+                                    <span style="color: #B89855;"> Current Run Rate:</span>
+                                    <span class="CRR"  id="crr0"> </span>
+                                </div>
+                            </div>
+
+                            <hr class="outBorder">
+                            <div class="liveInfo">
+                                <div class="batting-stats" id="batting-stats">
+                                    <img src="../img/bat01.png" >
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Batter</th>
+                                            <th>Runs</th>
+                                            <th>Balls Faced</th>
+                                            <th>4s</th>
+                                            <th>6s</th>
+                                            <th>Strike Rate</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="p10">__</td>
+                                            <td id="p1Run0">__</td>
+                                            <td id="p1Ball0">__</td>
+                                            <td id="p14s0">__</td>
+                                            <td id="p16s0">__</td>
+                                            <td id="p1strikeRate0">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="p20">__</td>
+                                            <td id="p2Run0">__</td>
+                                            <td id="p2Ball0">__</td>
+                                            <td id="p24s0">__</td>
+                                            <td id="p26s0">__</td>
+                                            <td id="p2strikeRate0">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="bowling-stats" id="bowling-stats">
+                                    <img src="../img/ball.png">
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Bowler</th>
+                                            <th>Overs</th>
+                                            <th>Runs</th>
+                                            <th>Wickets</th>
+                                            <th>Maidens</th>
+                                            
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="bp10">__</td>
+                                            <td id="bp1o0">__</td>
+                                            <td id="bp1r0">__</td>
+                                            <td id="bp1w0">__</td>
+                                            <td id="bp1m0">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="bp20">__</td>
+                                            <td id="bp2o0">__</td>
+                                            <td id="bp2r0">__</td>
+                                            <td id="bp2w0">__</td>
+                                            <td id="bp2m0">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="info-box" id="info-box">
+                                <p class="gColor_M">Partnership : <span id="partnership0" class="wColor">   </span></p>
+                                <p  class="gColor_W">Last Wicket : <span id="lastWicket0" class="wColor">   </span></p>
+                            </div>
+
+                                <div class="commentary-box">
+                                    <p> <img src="../img/com.png" height="2%"width ="2%"> <span id="commentary-text0">   </span> </p>
+                                </div>
+                        </div>
+                    </div>
+
+                    <!-- OVER MATCH 00 -->
+                    <div id="overMatchInfo0" style="display: none;">
+                        <p class="OMTitle" id="OMTitle30" > </p>
+                        <div class="team-12">
+                            <p  id="team-one0"> </p> 
+                            <p  id="team-two0"> </p>
+                        </div>
+                        <span style="animation: blink01 3s infinite;">
+                            <p class="OMUpdate" id="OMUpdate30"> </p>
+                        </span>
+                    </div>
+				</div>
+			  </div>
+
+			<!-- Box1-->
+			  <div class="slider-slide">
+				<div class="box"> 
+                    <div id="teamLogo_box1" class="teamImageDiv" >
+                        <img src=""class="teamImage" id="teamOne_ImageB1">
+                        <span>V/S</span>
+                        <img src=""class="teamImage" id="teamTwo_ImageB1">
+                    </div>
+					<span class="matchStatus" id="matchStatus1">  </span>
+                    <!--  UPCOMING 01-->
+                    <div id="upcomigMatchInfo1" class="UpcomingTitle" style="display: none;">
+                        <p id="UpcomingTitle1" > </p>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="UpcomingUpdate1" class="UpcomingUpdate">  </p>
+                        </span>
+                    </div>
+
+                    <!-- LIVE 01 -->
+					<div id="liveMatchInfo1" style="display: none;" class="liveMatchInfo">
+                        <div class="card-header">
+                            <p class="team-left" id="title1"> </p>
+                            <p class="update" id="update1"> </p>
+                        </div> 
+
+                        <div class="card-body">
+                            <div class="battingTeam">
+								<span class="battingName" id="battingTeam1"> </span> 
+								<span class="currentScore" id="currentScore1">  </span>
+							</div>
+
+                            <div class="lastRun" id="lastRun1"  style="display: inline-block; margin-bottom: 5px;"> </div>
+
+                            <div class="runContainer">
+                                <span id="overRun1" class="overRun">  </span>
+                                <div id="RR" class="RR"> 
+                                    <span style="color: #B89855;"> Current Run Rate:</span>
+                                    <span id="crr1" class="CRR"> </span>
+                                </div>
+                            </div>
+
+                            <hr class="outBorder">
+                            <div  class="liveInfo">
+                                <div class="batting-stats" id="batting-stats">
+                                    <img src="../img/bat01.png" >
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Batter</th>
+                                            <th>Runs</th>
+                                            <th>Balls Faced</th>
+                                            <th>4s</th>
+                                            <th>6s</th>
+                                            <th>Strike Rate</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="p11">__</td>
+                                            <td id="p1Run1">__</td>
+                                            <td id="p1Ball1">__</td>
+                                            <td id="p14s1">__</td>
+                                            <td id="p16s1">__</td>
+                                            <td id="p1strikeRate1">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="p21">__</td>
+                                            <td id="p2Run1">__</td>
+                                            <td id="p2Ball1">__</td>
+                                            <td id="p24s1">__</td>
+                                            <td id="p26s1">__</td>
+                                            <td id="p2strikeRate1">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="bowling-stats" id="bowling-stats">
+                                    <img src="../img/ball.png">
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Bowler</th>
+                                            <th>Overs</th>
+                                            <th>Runs</th>
+                                            <th>Wickets</th>
+                                            <th>Maidens</th>
+                                            
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="bp11">__</td>
+                                            <td id="bp1o1">__</td>
+                                            <td id="bp1r1">__</td>
+                                            <td id="bp1w1">__</td>
+                                            <td id="bp1m1">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="bp21">__</td>
+                                            <td id="bp2o1">__</td>
+                                            <td id="bp2r1">__</td>
+                                            <td id="bp2w1">__</td>
+                                            <td id="bp2m1">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="info-box" id="info-box">
+                                <p  class="gColor_M">Partnership : <span id="partnership1" class="wColor" >   </span></p>
+								<p  class="gColor_W">Last Wicket : <span id="lastWicket1" class="wColor">   </span></p>
+                            </div>
+
+                            <div class="commentary-box">
+                                <p> <img src="../img/com.png" height="2%"width ="2%"> <span id="commentary-text1">   </span> </p>
+                            </div>
+                        </div>
+					</div>
+
+                    <!-- OVER MATCH 01 -->
+                    <div id="overMatchInfo1" style="display: none;">
+                        <p id="OMTitle31" class="OMTitle"> </p>
+                        <div class="team-12">
+                            <p  id="team-one1"> </p> 
+							<p  id="team-two1"> </p>
+                        </div>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="OMUpdate31" class="OMUpdate" > </p>
+                        </span>
+                    </div>
+				</div>
+			  </div>
+			  
+
+			<!-- Box2 -->
+			  <div class="slider-slide">
+				<div class="box">
+                    <div id="teamLogo_box2" class="teamImageDiv" >
+                        <img src=""class="teamImage" id="teamOne_ImageB2">
+                        <span>V/S</span>
+                        <img src=""class="teamImage" id="teamTwo_ImageB2">
+                    </div>
+					<span class="matchStatus" id="matchStatus2" >  </span>
+                    <!--  UPCOMING 02 -->
+                    <div id="upcomigMatchInfo2" class="UpcomingTitle" style="display: none;">
+                        <p id="UpcomingTitle2"> </p>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="UpcomingUpdate2" class="UpcomingUpdate">  </p>
+                        </span>
+                    </div>
+
+                    <!-- LIVE  02-->
+                    <div id="liveMatchInfo2" style="display: none;" class="liveMatchInfo">
+                        <div class="card-header">
+                            <p class="team-left" id="title2">  </p>
+                            <p class="update" id="update2">  </p>
+                        </div>
+                        <div class="card-body">
+                            <div class="battingTeam">
+                                <span class="battingName" id="battingTeam2"> </span> 
+                                <span class="currentScore" id="currentScore2">  </span>
+                            </div>
+
+                            <div class="lastRun" id="lastRun2"  style="display: inline-block; margin-bottom: 5px;"> </div>
+
+                            <div class="runContainer">
+                                <span id="overRun2" class="overRun">  </span>
+                                <div id="RR" class="RR"> 
+                                    <span style="color: #B89855;"> Current Run Rate:</span>
+                                    <span id="crr2" class="CRR"> </span>
+                                </div>
+        
+                            </div>
+
+                            <hr class="outBorder" >
+                            <div class="liveInfo">
+                                <div class="batting-stats" id="batting-stats">
+                                    <img src="../img/bat01.png" >
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Batter</th>
+                                            <th>Runs</th>
+                                            <th>Balls Faced</th>
+                                            <th>4s</th>
+                                            <th>6s</th>
+                                            <th>Strike Rate</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="p12">__</td>
+                                            <td id="p1Run2">__</td>
+                                            <td id="p1Ball2">__</td>
+                                            <td id="p14s2">__</td>
+                                            <td id="p16s2">__</td>
+                                            <td id="p1strikeRate2">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="p22">__</td>
+                                            <td id="p2Run2">__</td>
+                                            <td id="p2Ball2">__</td>
+                                            <td id="p24s2">__</td>
+                                            <td id="p26s2">__</td>
+                                            <td id="p2strikeRate2">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="bowling-stats" id="bowling-stats">
+                                    <img src="../img/ball.png">
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Bowler</th>
+                                            <th>Overs</th>
+                                            <th>Runs</th>
+                                            <th>Wickets</th>
+                                            <th>Maidens</th>
+                                            
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="bp12">__</td>
+                                            <td id="bp1o2">__</td>
+                                            <td id="bp1r2">__</td>
+                                            <td id="bp1w2">__</td>
+                                            <td id="bp1m2">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="bp22">__</td>
+                                            <td id="bp2o2">__</td>
+                                            <td id="bp2r2">__</td>
+                                            <td id="bp2w2">__</td>
+                                            <td id="bp2m2">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="info-box" id="info-box">
+                                <p  class="gColor_M">Partnership : <span id="partnership2" class="wColor">   </span></p>
+                                <p  class="gColor_W">Last Wicket : <span id="lastWicket2" class="wColor">   </span></p>
+                            </div>
+
+                            <div class="commentary-box">
+                                <p> <img src="../img/com.png" height="2%"width ="2%"> <span id="commentary-text2">   </span> </p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- OVER MATCH 02 -->
+                    <div id="overMatchInfo2" style="display: none;">
+                        <p id="OMTitle32" class="OMTitle"> </p>
+                        <div class="team-12">
+                            <p  id="team-one2"> </p> 
+                            <p  id="team-two2"> </p>
+                        </div>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="OMUpdate32" class="OMUpdate" > </p>
+                        </span>
+                    </div>
+				</div>
+			  </div>
+
+			<!-- Box3 -->
+			  <div class="slider-slide">
+				<div class="box">
+                    <div id="teamLogo_box3" class="teamImageDiv" >
+                        <img src=""class="teamImage" id="teamOne_ImageB3">
+                        <span>V/S</span>
+                        <img src=""class="teamImage" id="teamTwo_ImageB3">
+                    </div>
+					<span class="matchStatus" id="matchStatus3" >  </span>
+					<!--  UPCOMING 03 -->
+                    <div id="upcomigMatchInfo3" class="UpcomingTitle" style="display: none;">
+                        <p id="UpcomingTitle3" > </p>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="UpcomingUpdate3" class="UpcomingUpdate">  </p>
+                        </span>
+                    </div>
+            
+                    <!-- LIVE 03 -->
+                    <div id="liveMatchInfo3" style="display: none;" class="liveMatchInfo">
+                        <div class="card-header">
+                            <p class="team-left" id="title3">  </p>
+                            <p class="update" id="update3">  </p>
+                        </div>
+            
+                        <div class="card-body">
+                            <div class="battingTeam">
+                                <span class="battingName" id="battingTeam3"> </span> 
+                                <span class="currentScore" id="currentScore3">  </span>
+                            </div>
+            
+                            <div class="lastRun" id="lastRun3"  style="display: inline-block; margin-bottom: 5px;"> </div>
+            
+                            <div class="runContainer">
+                                <span id="overRun3" class="overRun">  </span>
+                                <div id="RR" class="RR"> 
+                                    <span style="color: #B89855;"> Current Run Rate:</span>
+                                    <span id="crr3" class="CRR"> </span>
+                                </div>
+                            </div>
+            
+                            <hr class="outBorder">
+                            <div  class="liveInfo">
+                                <div class="batting-stats" id="batting-stats">
+                                    <img src="../img/bat01.png" >
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Batter</th>
+                                            <th>Runs</th>
+                                            <th>Balls Faced</th>
+                                            <th>4s</th>
+                                            <th>6s</th>
+                                            <th>Strike Rate</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="p13">__</td>
+                                            <td id="p1Run3">__</td>
+                                            <td id="p1Ball3">__</td>
+                                            <td id="p14s3">__</td>
+                                            <td id="p16s3">__</td>
+                                            <td id="p1strikeRate3">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="p23">__</td>
+                                            <td id="p2Run3">__</td>
+                                            <td id="p2Ball3">__</td>
+                                            <td id="p24s3">__</td>
+                                            <td id="p26s3">__</td>
+                                            <td id="p2strikeRate3">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+            
+                                <div class="bowling-stats" id="bowling-stats">
+                                    <img src="../img/ball.png">
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th>Bowler</th>
+                                            <th>Overs</th>
+                                            <th>Runs</th>
+                                            <th>Wickets</th>
+                                            <th>Maidens</th>
+                                            
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td id="bp13">__</td>
+                                            <td id="bp1o3">__</td>
+                                            <td id="bp1r3">__</td>
+                                            <td id="bp1w3">__</td>
+                                            <td id="bp1m3">__</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="bp23">__</td>
+                                            <td id="bp2o3">__</td>
+                                            <td id="bp2r3">__</td>
+                                            <td id="bp2w3">__</td>
+                                            <td id="bp2m3">__</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+            
+                            <div class="info-box" id="info-box">
+                                <p class="gColor_M">Partnership : <span id="partnership3" class="wColor">   </span></p>
+                                <p class="gColor_W">Last Wicket : <span id="lastWicket3" class="wColor">   </span></p>
+                            </div>
+            
+                            <div class="commentary-box">
+                                <p> <img src="../img/com.png" height="2%"width ="2%"> <span id="commentary-text3">   </span> </p>
+                            </div>
+                        </div>
+                    </div>
+            
+            
+                    <!-- OVER MATCH 03-->
+                    <div id="overMatchInfo3" style="display: none;">
+                        <p class="OMTitle" id="OMTitle33"> </p>
+                        <div class="team-12">
+                            <p  id="team-one3"> </p> 
+                            <p  id="team-two3"> </p>
+                        </div>
+                        <span style="animation: blink01 3s infinite;">
+                            <p id="OMUpdate33" class="OMUpdate" > </p>
+                        </span>
+                    </div>
+			    </div>
+			  </div>
+
+            </div>
+            <p id="errorMessage" style="display: none; text-align: center;"> </p>
+			<br><br>
+		</div>
+
+    
+	</main>
+    	
+	<footer>
+		<p style="color: #B89855;">&copy; 2023 Score Hub. All rights reserved</p>
+		<p>Developed by <a href="https://in.linkedin.com/in/harshax07"> <span style="color: #B89855;">Harsha</span></a></p>
+	</footer>
+  <script src="../js/cricket.js"></script>
+</body>
+</html>
