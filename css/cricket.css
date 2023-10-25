@@ -20,7 +20,7 @@ body {
     align-items: center;
     max-width: 500px;
     margin: 0 auto;
-    padding-top: 40px;
+    padding-top: 15px;
 }
 
 .logo img {
@@ -28,6 +28,37 @@ body {
     height: auto;
 }
 
+
+
+
+@keyframes load {
+    0%{
+        opacity: 0.08;
+		filter: blur(5px);
+		letter-spacing: 3px;
+        }
+    100%{
+  
+        }
+}
+
+.animate {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height:100%;
+	margin: auto;
+	animation: load 1.5s infinite 0s ease-in-out;
+	animation-direction: alternate;
+	text-shadow: 0 0 1px #B89855;
+}
+
+.animate h3{
+    letter-spacing: 2px;
+    height: 96vh;
+	color: #B89855;
+    font-family: 'Arial', sans-serif;;
+}
 
 
 header {
@@ -485,7 +516,7 @@ th {
     }
 
     .slider-control {
-        font-size: 0.7rem; 
+        font-size: 0.8rem; 
         padding: 0.1rem 0.3rem; 
     }
 	
