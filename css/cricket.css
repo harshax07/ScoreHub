@@ -624,6 +624,10 @@ th {
         font-size: 1rem;
         font-weight: bold;
     }
+    .slider-controls button {
+        font-size: 18px;
+        padding: 10px 20px; 
+    }
 	
 }
 
