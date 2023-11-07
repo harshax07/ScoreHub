@@ -191,10 +191,10 @@ button
   }
   
   .image-container img {
-    width: 200px;
-    height: 280px;
+    width: 260px;
+    height: 340px;
     object-fit: cover;
-    filter: grayscale(100%) contrast(100%);
+    filter: grayscale(40%) contrast(95%);
     box-shadow: 10px 15px 25px 0 rgba(0, 0, 0, .2);
     display: block;
     transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -303,7 +303,8 @@ footer p {
 
 
     .image-container img {
-        max-width: 100%;
+      width: 100px;
+      height: 140px;
     }
 
     .text p {
@@ -325,8 +326,8 @@ footer p {
     }
 
     .text {
-        width: auto; 
-        max-width: 100%; 
+        width: 60%;
+        
     }
 
     .text h2 {
@@ -353,7 +354,7 @@ footer p {
 
     .photo {
       position: absolute;
-      top: 75%; 
+      top: 90%; 
       left: 10%; 
       display: block;
   
@@ -362,6 +363,20 @@ footer p {
 }
 
 
+
+.ph {
+  float: left; 
+  width: 50%; /* Set the width to 50% to take up half of the available space */
+  box-sizing: border-box; /* Include padding and border in the total width */
+  padding: 0 10px; /* Optional padding to create some spacing between the two divs */
+}
+
+.text {
+  float: left; /* Float the 'text' div to the left */
+  width: 50%; /* Set the width to 50% to take up the other half of the available space */
+  box-sizing: border-box; /* Include padding and border in the total width */
+  padding: 0 10px; /* Optional padding to create some spacing between the two divs */
+}
 
 
 
