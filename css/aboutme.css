@@ -303,7 +303,8 @@ footer p {
 
 
     .image-container img {
-        max-width: 100%;
+        width: 100px;
+        height: 140px;
     }
 
     .text p {
