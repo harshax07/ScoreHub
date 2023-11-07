@@ -16,15 +16,16 @@
 	<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
 </head>
 <body>
-    
 	<header>
         <nav>
              <a href="../index.html" class="logo"><img src="../img/final.png" alt="Logo"></a>
+             <p style="font-size: 14px;">Create your <a href="login.html"> <span class="accent-color" style="font-weight: bold;">Score Hub account</span></a></p>
         </nav>
 	</header>
     <div class="slider-controls">
-        <button class="slider-control slider-control--left"><i class="fas fa-chevron-left"></i></button>
-        <button class="slider-control slider-control--right"><i class="fas fa-chevron-right"></i></button>
+        <button class="slider-control slider-control--left" id="buttonLeft">⮜Prior</button>
+        
+        <button class="slider-control slider-control--right" id="buttonRight">Next⮞</button>
     </div>
 	<main>
 		<div class="slider-container">
@@ -575,10 +576,7 @@
             <p id="errorMessage" style="display: none; text-align: center;"> </p>
 			<br><br>
 		</div>
-
-    
 	</main>
-    	
 	<footer>
 		<p style="color: #B89855;">&copy; 2023 Score Hub. All rights reserved</p>
 		<p>Developed by <a href="https://in.linkedin.com/in/harshax07"> <span style="color: #B89855;">Harsha</span></a></p>
