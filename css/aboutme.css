@@ -95,7 +95,7 @@ body{
     width: 200px;
     height: 280px;
     object-fit: cover;
-    filter: grayscale(100%) contrast(100%);
+    filter: grayscale(40%) contrast(95%);
     box-shadow: 10px 15px 25px 0 rgba(0, 0, 0, .2);
     display: block;
     transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -194,7 +194,7 @@ button
     width: 200px;
     height: 280px;
     object-fit: cover;
-    filter: grayscale(100%) contrast(100%);
+    filter: grayscale(40%) contrast(95%);
     box-shadow: 10px 15px 25px 0 rgba(0, 0, 0, .2);
     display: block;
     transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
