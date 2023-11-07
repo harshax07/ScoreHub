@@ -30,6 +30,11 @@ body {
 
 
 
+.accent-color {
+    color: #B89855;
+}
+
+
 
 @keyframes load {
     0%{
@@ -152,7 +157,7 @@ footer p {
     opacity: 1;
 }
 
-.slider-controls {
+/* .slider-controls {
     position: relative;
     top: 0;
     left: 0;
@@ -162,7 +167,22 @@ footer p {
     font-size: 10px;
     align-items: center;
     margin-bottom: 0;
+} */
+
+.slider-controls {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between; /* This will push the buttons to the edges */
+    font-size: 10px;
+    align-items: center;
+    margin-bottom: 0;
+    padding: 10px; 
 }
+
+
 
 .slider-container {
     position: relative;
@@ -512,11 +532,11 @@ th {
     }
 
 	.slider-controls {
-        font-size: 19px; 
+        font-size: 17px; 
     }
 
     .slider-control {
-        font-size: 0.9rem; 
+        font-size: 0.8rem; 
         padding: 0.1rem 0.3rem; 
     }
 	
@@ -579,7 +599,7 @@ th {
     }
     
     .matchStatus{
-        font-size: 0.8rem;
+        font-size: 0.4rem;
     }
 
     .battingTeam{
