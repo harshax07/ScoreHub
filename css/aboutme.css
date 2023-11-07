@@ -364,19 +364,6 @@ footer p {
 
 
 
-.ph {
-  float: left; 
-  width: 50%; /* Set the width to 50% to take up half of the available space */
-  box-sizing: border-box; /* Include padding and border in the total width */
-  padding: 0 10px; /* Optional padding to create some spacing between the two divs */
-}
-
-.text {
-  float: left; /* Float the 'text' div to the left */
-  width: 50%; /* Set the width to 50% to take up the other half of the available space */
-  box-sizing: border-box; /* Include padding and border in the total width */
-  padding: 0 10px; /* Optional padding to create some spacing between the two divs */
-}
 
 
 
